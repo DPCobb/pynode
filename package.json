@@ -1,0 +1,11 @@
+{
+  "name": "pynode",
+  "version": "1.0.0",
+  "description": "A Python based logger for Node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Cobb",
+  "license": "ISC"
+}
