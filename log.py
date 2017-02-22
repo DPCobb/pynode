@@ -23,7 +23,6 @@ class Logger (object):
         self.log(self.dataIn)
 
 
-# Start the logger
-if __name__ == '__main__':
-    log = Logger()
-    log.main()
+# Instantiate and start log
+log = Logger()
+log.main()
