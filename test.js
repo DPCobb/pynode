@@ -1,3 +1,3 @@
 const test = require('./main.js')
 
-test.createData(['hello world from test'])
+test.createData(['hello world from test!'])
