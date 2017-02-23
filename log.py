@@ -12,15 +12,19 @@ class Logger (object):
     def log(self, data):
         path = os.getcwd() + '/logs'
         if not os.path.exists(path): os.makedirs(path)
-        msg = 'This is a ' + data[0] + ' msg and it is ' + data[1]
+        msg = '-- ' + data[0] + ' @ ' + self.now.isoformat(' ') + ' MSG: ' + data[1]
         f = open("logs/testlog.txt", "a+")
         f.write(msg + '\n')
 
     def console(self, data):
         if data[0] == 'success':
-            print ('\x1b[6;30;42m' + 'Succes Event @ ' + self.now.isoformat()  + '\x1b[0m \n' + data[1])
+            print ('\x1b[6;30;42m' + 'Success Event @ ' + self.now.isoformat(' ')  + '\x1b[0m \n\x1b[0;37m' + 'MSG:' + '\x1b[0m ' + data[1] + '\n\n')
+        elif data[0] == 'warning':
+            print ('\x1b[0;30;43m' + 'WARNING! @ ' + self.now.isoformat(' ')  + '\x1b[0m \n\x1b[0;37m' + 'MSG:' + '\x1b[0m ' + data[1] + '\n\n')
+        elif data[0] == 'error':
+            print ('\x1b[0;37;41m' + 'ERROR! @ ' + self.now.isoformat(' ')  + '\x1b[0m \n\x1b[0;37m' + 'MSG:' + '\x1b[0m ' + data[1] + '\n\n')
         else:
-            print ('\x1b[0m' + 'Event @ ' + self.now.isoformat()  + '\x1b[0m \n' + data[1])
+            print ('\x1b[0m' + 'Event @ ' + self.now.isoformat(' ')  + '\x1b[0m \n' + data[1] + '\n')
 
 
     def main(self):

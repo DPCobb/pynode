@@ -1,8 +1,15 @@
-This is hello world from test! and it is hello world from test!
-This is hello world from test! and it is hello world from test!
-This is hello world from test! and it is hello world from test!
-This is hello world from test! and it is hello world from test!
-This is success hello world from test! and it is success hello world from test!
-This is success hello world from test! and it is success hello world from test!
-This is a success msg and it is success hello world from test!
-This is a error msg and it is error hello world from test!
+success @ 2017-02-23T14:18:45.198441MSG: success hello world from test!
+error @ 2017-02-23T14:18:45.206409MSG: success hello world from test!
+warning @ 2017-02-23T14:18:45.208317MSG: success hello world from test!
+
+-- success @ 2017-02-23T14:19:21.482836MSG: success hello world from test!
+
+-- error @ 2017-02-23T14:19:21.489944MSG: success hello world from test!
+
+-- warning @ 2017-02-23T14:19:21.492080MSG: success hello world from test!
+
+-- success @ 2017-02-23 14:22:39.803983 MSG: success hello world from test!
+
+-- error @ 2017-02-23 14:22:39.811614 MSG: success hello world from test!
+
+-- warning @ 2017-02-23 14:22:39.813601 MSG: success hello world from test!
