@@ -10,6 +10,7 @@
  const spawn = require('child_process').spawn;
 
 class dataHold {
+  // store the data from python
   hold(dataIn, key) {
     this.data = dataIn;
     this.key = key;
@@ -17,8 +18,10 @@ class dataHold {
       key: this.key,
       data: this.data,
     }
+    // write to json file
     fs.writeFile('./tmp.json', JSON.stringify(this.locker, null, 2), (err) => {
       if (err) throw err;
+      // call method to manipulate data
       this.test();
     });
   }
