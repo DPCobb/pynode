@@ -13,3 +13,327 @@ warning @ 2017-02-23T14:18:45.208317MSG: success hello world from test!
 -- error @ 2017-02-23 14:22:39.811614 MSG: success hello world from test!
 
 -- warning @ 2017-02-23 14:22:39.813601 MSG: success hello world from test!
+-- success @ 2017-02-23 18:00:09.876199 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:00:09.874596 MSG: success hello world from test!
+-- error @ 2017-02-23 18:00:09.882006 MSG: success hello world from test!
+-- success @ 2017-02-23 18:01:06.970920 MSG: success hello world from test!
+-- error @ 2017-02-23 18:01:06.976846 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:01:06.980073 MSG: success hello world from test!
+-- success @ 2017-02-23 18:01:43.208024 MSG: success hello world from test!
+-- error @ 2017-02-23 18:01:43.217146 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:01:43.218111 MSG: success hello world from test!
+-- success @ 2017-02-23 18:01:57.240527 MSG: success hello world from test!
+-- error @ 2017-02-23 18:01:57.251151 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:01:57.254922 MSG: success hello world from test!
+-- success @ 2017-02-23 18:02:17.802290 MSG: success hello world from test!
+-- error @ 2017-02-23 18:02:17.810350 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:02:17.813018 MSG: success hello world from test!
+-- success @ 2017-02-23 18:03:07.743593 MSG: success hello world from test!
+-- error @ 2017-02-23 18:03:07.753083 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:03:07.754048 MSG: success hello world from test!
+-- success @ 2017-02-23 18:03:25.669319 MSG: success hello world from test!
+-- error @ 2017-02-23 18:03:25.678271 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:03:25.680174 MSG: success hello world from test!
+-- success @ 2017-02-23 18:03:43.358098 MSG: success hello world from test!
+-- error @ 2017-02-23 18:03:43.367956 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:03:43.369283 MSG: success hello world from test!
+-- success @ 2017-02-23 18:03:50.205829 MSG: success hello world from test!
+-- error @ 2017-02-23 18:03:50.214365 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:03:50.215602 MSG: success hello world from test!
+-- success @ 2017-02-23 18:04:02.091715 MSG: success hello world from test!
+-- error @ 2017-02-23 18:04:02.101928 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:04:02.102580 MSG: success hello world from test!
+-- success @ 2017-02-23 18:04:29.336092 MSG: success hello world from test!
+-- error @ 2017-02-23 18:04:29.346551 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:04:29.347291 MSG: success hello world from test!
+-- success @ 2017-02-23 18:05:03.242894 MSG: success hello world from test!
+-- error @ 2017-02-23 18:05:03.252344 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:05:03.254042 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:05:03.256711 MSG: this is something
+-- success @ 2017-02-23 18:05:19.294396 MSG: success hello world from test!
+-- error @ 2017-02-23 18:05:19.303137 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:05:19.305390 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:05:19.307112 MSG: this is something 2
+-- success @ 2017-02-23 18:06:00.488175 MSG: success hello world from test!
+-- error @ 2017-02-23 18:06:00.499366 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:06:00.499939 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:06:00.500303 MSG: this is something
+-- success @ 2017-02-23 18:06:17.160245 MSG: success hello world from test!
+-- error @ 2017-02-23 18:06:17.169483 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:06:17.173190 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:06:17.173711 MSG: this is something
+-- success @ 2017-02-23 18:06:32.198995 MSG: success hello world from test!
+-- error @ 2017-02-23 18:06:32.208422 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:06:32.210255 MSG: success hello world from test!
+-- success @ 2017-02-23 18:07:48.461116 MSG: success hello world from test!
+-- error @ 2017-02-23 18:07:48.469087 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:07:48.471705 MSG: success hello world from test!
+-- success @ 2017-02-23 18:07:59.269300 MSG: success hello world from test!
+-- error @ 2017-02-23 18:07:59.278855 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:07:59.281511 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:07:59.282207 MSG: this is something
+-- success @ 2017-02-23 18:08:22.324331 MSG: success hello world from test!
+-- error @ 2017-02-23 18:08:22.333568 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:08:22.335578 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:08:22.336693 MSG: this is something
+-- success @ 2017-02-23 18:08:37.827542 MSG: success hello world from test!
+-- error @ 2017-02-23 18:08:37.837356 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:08:37.838747 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:08:37.841607 MSG: this is something
+-- success @ 2017-02-23 18:08:55.650063 MSG: success hello world from test!
+-- error @ 2017-02-23 18:08:55.660513 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:08:55.662282 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:08:55.662733 MSG: this is something 3
+-- success @ 2017-02-23 18:09:03.956602 MSG: success hello world from test!
+-- error @ 2017-02-23 18:09:03.965093 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:09:03.968633 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:09:03.970506 MSG: this is something
+-- success @ 2017-02-23 18:43:45.323224 MSG: success hello world from test!
+-- error @ 2017-02-23 18:43:45.342224 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:43:45.345958 MSG: success hello world from test!
+-- success @ 2017-02-23 18:44:00.003347 MSG: success hello world from test!
+-- error @ 2017-02-23 18:44:00.014198 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:44:00.016651 MSG: success hello world from test!
+-- success @ 2017-02-23 18:44:06.234134 MSG: success hello world from test!
+-- error @ 2017-02-23 18:44:06.241854 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:44:06.244320 MSG: success hello world from test!
+-- success @ 2017-02-23 18:44:15.625992 MSG: success hello world from test!
+-- error @ 2017-02-23 18:44:15.634044 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:44:15.637179 MSG: success hello world from test!
+-- success @ 2017-02-23 18:45:46.670928 MSG: success hello world from test!
+-- error @ 2017-02-23 18:45:46.681308 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:45:46.683136 MSG: success hello world from test!
+-- success @ 2017-02-23 18:45:58.822452 MSG: success hello world from test!
+-- error @ 2017-02-23 18:45:58.830936 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:45:58.833641 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:45:58.835295 MSG: this is something
+-- success @ 2017-02-23 18:46:23.781203 MSG: success hello world from test!
+-- error @ 2017-02-23 18:46:23.789788 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:46:23.791635 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:46:23.792587 MSG: this is something
+-- success @ 2017-02-23 18:46:45.456721 MSG: success hello world from test!
+-- error @ 2017-02-23 18:46:45.465327 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:46:45.468598 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:46:45.469003 MSG: this is something
+-- success @ 2017-02-23 18:46:52.502879 MSG: success hello world from test!
+-- error @ 2017-02-23 18:46:52.511487 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:46:52.514099 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:46:52.514390 MSG: this is something
+-- success @ 2017-02-23 18:46:57.667331 MSG: success hello world from test!
+-- error @ 2017-02-23 18:46:57.676397 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:46:57.678087 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:46:57.678694 MSG: this is something
+-- success @ 2017-02-23 18:47:50.535091 MSG: success hello world from test!
+-- error @ 2017-02-23 18:47:50.543551 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:47:50.546079 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:47:50.548301 MSG: this is something
+-- success @ 2017-02-23 18:48:37.041415 MSG: success hello world from test!
+-- error @ 2017-02-23 18:48:37.051304 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:48:37.052456 MSG: this is something
+-- warning @ 2017-02-23 18:48:37.053460 MSG: success hello world from test!
+-- success @ 2017-02-23 18:50:14.407304 MSG: success hello world from test!
+-- error @ 2017-02-23 18:50:14.416703 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:50:14.418948 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:50:14.420773 MSG: this is something
+-- success @ 2017-02-23 18:50:31.935716 MSG: success hello world from test!
+-- error @ 2017-02-23 18:50:31.944258 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:50:31.947478 MSG: this is something
+-- warning @ 2017-02-23 18:50:31.948084 MSG: success hello world from test!
+-- success @ 2017-02-23 18:50:57.046966 MSG: success hello world from test!
+-- error @ 2017-02-23 18:50:57.056355 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:50:57.058607 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:50:57.060649 MSG: c2
+-- success @ 2017-02-23 18:51:16.332841 MSG: success hello world from test!
+-- error @ 2017-02-23 18:51:16.342116 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:51:16.345559 MSG: c2
+-- warning @ 2017-02-23 18:51:16.345949 MSG: success hello world from test!
+-- success @ 2017-02-23 18:51:28.062424 MSG: success hello world from test!
+-- error @ 2017-02-23 18:51:28.070146 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:51:28.072429 MSG: c2
+-- warning @ 2017-02-23 18:51:28.072522 MSG: success hello world from test!
+-- success @ 2017-02-23 18:51:43.262747 MSG: success hello world from test!
+-- error @ 2017-02-23 18:51:43.272039 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:51:43.274883 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:51:43.275878 MSG: c2
+-- success @ 2017-02-23 18:52:02.145684 MSG: success hello world from test!
+-- error @ 2017-02-23 18:52:02.154837 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:52:02.157168 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:52:02.158259 MSG: c2
+-- success @ 2017-02-23 18:52:25.416478 MSG: success hello world from test!
+-- error @ 2017-02-23 18:52:25.424778 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:52:25.426987 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:52:25.427758 MSG: c2
+-- success @ 2017-02-23 18:52:45.271666 MSG: success hello world from test!
+-- error @ 2017-02-23 18:52:45.282059 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:52:45.283454 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:52:45.285354 MSG: c2
+-- success @ 2017-02-23 18:53:01.656453 MSG: success hello world from test!
+-- error @ 2017-02-23 18:53:01.667138 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:53:01.668751 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:53:01.669704 MSG: c2
+-- success @ 2017-02-23 18:55:25.252146 MSG: success hello world from test!
+-- error @ 2017-02-23 18:55:25.260271 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:55:25.261603 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:55:25.263326 MSG: c2
+-- success @ 2017-02-23 18:56:17.041936 MSG: success hello world from test!
+-- success @ 2017-02-23 18:57:59.054075 MSG: success hello world from test!
+-- error @ 2017-02-23 18:57:59.063850 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:57:59.065959 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:57:59.068990 MSG: c2
+-- success @ 2017-02-23 18:58:36.801288 MSG: success hello world from test!
+-- error @ 2017-02-23 18:58:36.812653 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:58:36.813932 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:58:36.815962 MSG: c2
+-- success @ 2017-02-23 18:59:41.533524 MSG: success hello world from test!
+-- error @ 2017-02-23 18:59:41.543569 MSG: success hello world from test!
+-- warning @ 2017-02-23 18:59:41.546089 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 18:59:41.548459 MSG: c2
+-- success @ 2017-02-23 19:00:03.636883 MSG: success hello world from test!
+-- error @ 2017-02-23 19:00:03.648298 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:00:03.651034 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:00:03.652704 MSG: c2
+-- success @ 2017-02-23 19:00:39.685670 MSG: success hello world from test!
+-- error @ 2017-02-23 19:00:39.694247 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:00:39.696799 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:00:39.698073 MSG: c2
+-- success @ 2017-02-23 19:01:45.339781 MSG: success hello world from test!
+-- error @ 2017-02-23 19:01:45.347992 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:01:45.350518 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:01:45.351023 MSG: c2
+-- success @ 2017-02-23 19:02:20.798354 MSG: success hello world from test!
+-- error @ 2017-02-23 19:02:20.807797 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:02:20.810869 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:02:20.810841 MSG: c2
+-- success @ 2017-02-23 19:02:39.916653 MSG: success hello world from test!
+-- error @ 2017-02-23 19:02:39.925034 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:02:39.927862 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:02:39.929521 MSG: c2
+-- success @ 2017-02-23 19:03:10.276269 MSG: success hello world from test!
+-- error @ 2017-02-23 19:03:10.288436 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:03:10.289450 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:03:10.292467 MSG: c2
+-- success @ 2017-02-23 19:03:31.747558 MSG: success hello world from test!
+-- error @ 2017-02-23 19:03:31.760488 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:03:31.764169 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:03:31.764481 MSG: c2
+-- success @ 2017-02-23 19:03:50.562758 MSG: success hello world from test!
+-- error @ 2017-02-23 19:03:50.576313 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:03:50.577362 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:03:50.578770 MSG: c2
+-- success @ 2017-02-23 19:04:16.051478 MSG: success hello world from test!
+-- error @ 2017-02-23 19:04:16.066111 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:04:16.067131 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:04:16.068326 MSG: c2
+-- success @ 2017-02-23 19:04:35.002143 MSG: success hello world from test!
+-- error @ 2017-02-23 19:04:35.014453 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:04:35.016534 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:04:35.017895 MSG: c2
+-- success @ 2017-02-23 19:04:50.856814 MSG: success hello world from test!
+-- error @ 2017-02-23 19:04:50.868480 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:04:50.870738 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:04:50.870976 MSG: c2
+-- success @ 2017-02-23 19:05:27.778966 MSG: success hello world from test!
+-- error @ 2017-02-23 19:05:27.790699 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:05:27.794656 MSG: c2
+-- warning @ 2017-02-23 19:05:27.794527 MSG: success hello world from test!
+-- success @ 2017-02-23 19:05:40.901683 MSG: success hello world from test!
+-- error @ 2017-02-23 19:05:40.913846 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:05:40.916802 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:05:40.917541 MSG: c2
+-- success @ 2017-02-23 19:05:58.461807 MSG: success hello world from test!
+-- success @ 2017-02-23 19:06:20.853719 MSG: success hello world from test!
+-- error @ 2017-02-23 19:06:20.867241 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:06:20.869286 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:06:20.870681 MSG: c2
+-- success @ 2017-02-23 19:07:03.958105 MSG: success hello world from test!
+-- success @ 2017-02-23 19:07:13.980574 MSG: success hello world from test!
+-- error @ 2017-02-23 19:07:13.993876 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:07:13.994880 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:07:13.997074 MSG: c2
+-- success @ 2017-02-23 19:07:55.290306 MSG: success hello world from test!
+-- error @ 2017-02-23 19:07:55.303111 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:07:55.305639 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:07:55.305976 MSG: c2
+-- success @ 2017-02-23 19:08:16.041532 MSG: success hello world from test!
+-- error @ 2017-02-23 19:08:16.055643 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:08:16.058197 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:08:16.059291 MSG: c2
+-- success @ 2017-02-23 19:08:33.937406 MSG: success hello world from test!
+-- error @ 2017-02-23 19:08:33.946345 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:08:33.948865 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:08:33.949436 MSG: c2
+-- success @ 2017-02-23 19:09:09.113113 MSG: success hello world from test!
+-- error @ 2017-02-23 19:09:09.122366 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:09:09.125419 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:09:09.125638 MSG: c2
+-- success @ 2017-02-23 19:09:30.216747 MSG: success hello world from test!
+-- error @ 2017-02-23 19:09:30.225405 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:09:30.227577 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:09:30.229867 MSG: c2
+-- success @ 2017-02-23 19:10:46.215720 MSG: success hello world from test!
+-- error @ 2017-02-23 19:10:46.225495 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:10:46.227775 MSG: c2
+-- warning @ 2017-02-23 19:10:46.227965 MSG: success hello world from test!
+-- success @ 2017-02-23 19:11:21.941867 MSG: success hello world from test!
+-- error @ 2017-02-23 19:11:21.950723 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:11:21.954132 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:11:21.955557 MSG: c2
+-- success @ 2017-02-23 19:11:36.527934 MSG: success hello world from test!
+-- error @ 2017-02-23 19:11:36.536383 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:11:36.539303 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:11:36.541127 MSG: c2
+-- success @ 2017-02-23 19:12:54.402047 MSG: success hello world from test!
+-- error @ 2017-02-23 19:12:54.410523 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:12:54.413891 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:12:54.413882 MSG: c2
+-- success @ 2017-02-23 19:13:09.012526 MSG: success hello world from test!
+-- error @ 2017-02-23 19:13:09.022622 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:13:09.025375 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:13:09.026120 MSG: c2
+-- success @ 2017-02-23 19:13:24.113246 MSG: success hello world from test!
+-- error @ 2017-02-23 19:13:24.122829 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:13:24.124927 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:13:24.126435 MSG: c2
+-- success @ 2017-02-23 19:13:35.631794 MSG: success hello world from test!
+-- error @ 2017-02-23 19:13:35.640780 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:13:35.643899 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:13:35.645516 MSG: c2
+-- isalnum @ 2017-02-23 19:23:28.984365 MSG: c2
+-- success @ 2017-02-23 19:23:28.984349 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:23:28.984284 MSG: success hello world from test!
+-- error @ 2017-02-23 19:23:28.984929 MSG: success hello world from test!
+-- success @ 2017-02-23 19:24:07.115407 MSG: success hello world from test!
+-- error @ 2017-02-23 19:24:07.125097 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:24:07.126958 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:24:07.128386 MSG: c2
+-- success @ 2017-02-23 19:24:26.002327 MSG: success hello world from test!
+-- error @ 2017-02-23 19:24:26.010868 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:24:26.014808 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:24:26.015885 MSG: c2
+-- success @ 2017-02-23 19:24:36.730151 MSG: success hello world from test!
+-- error @ 2017-02-23 19:24:36.739100 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:24:36.742079 MSG: c2
+-- warning @ 2017-02-23 19:24:36.742293 MSG: success hello world from test!
+-- success @ 2017-02-23 19:24:45.196720 MSG: success hello world from test!
+-- error @ 2017-02-23 19:24:45.206401 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:24:45.207720 MSG: success hello world from test!
+-- success @ 2017-02-23 19:24:51.954291 MSG: success hello world from test!
+-- error @ 2017-02-23 19:24:51.963581 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:24:51.965053 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:24:51.966424 MSG: c2
+-- success @ 2017-02-23 19:25:43.801513 MSG: success hello world from test!
+-- error @ 2017-02-23 19:25:43.808825 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:25:43.811716 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:25:43.813025 MSG: c2
+-- success @ 2017-02-23 19:25:52.515186 MSG: success hello world from test!
+-- error @ 2017-02-23 19:25:52.526835 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:25:52.527877 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:25:52.529794 MSG: c2
+-- success @ 2017-02-23 19:26:06.894572 MSG: success hello world from test!
+-- error @ 2017-02-23 19:26:06.907104 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:26:06.909209 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:26:06.909918 MSG: c2
+-- success @ 2017-02-23 19:26:23.126054 MSG: success hello world from test!
+-- error @ 2017-02-23 19:26:23.137820 MSG: success hello world from test!
+-- warning @ 2017-02-23 19:26:23.139528 MSG: success hello world from test!
+-- isalnum @ 2017-02-23 19:26:23.141507 MSG: c2

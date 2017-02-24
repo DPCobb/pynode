@@ -16,6 +16,27 @@ module.exports = {
     const dataOut = JSON.stringify(data);
     this.passToPy(dataOut);
   },
+  // pyFn takes a JSON object for formatting to send to Python functions
+  pyFn(dataIn) {
+    const py = dataIn;
+    switch (py[0]) {
+      case 'isalnum':
+        if (py.length == 2){
+          const alnum = this.passToPy(JSON.stringify(py))
+          console.log('alnum: ' + alnum)
+          if(alnum === 'True') {
+            console.log('The string was alphanumeric')
+          } else {
+            console.log('The string was not alphanumeric')
+          }
+        } else {
+          console.error('Incorrect Format');
+        }
+        break;
+      default:
+        break;
+    }
+  },
   passToPy(dataIn) {
     const py = spawn('python', [path.join(__dirname, '/log.py')]);
     py.stdin.write(dataIn);
@@ -27,5 +48,6 @@ module.exports = {
     py.stdout.on('close', () => {
       console.log(dataOut);
     });
+    return dataOut
   }
 }

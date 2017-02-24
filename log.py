@@ -23,6 +23,9 @@ class Logger (object):
             print ('\x1b[0;30;43m' + 'WARNING! @ ' + self.now.isoformat(' ')  + '\x1b[0m \n\x1b[0;37m' + 'MSG:' + '\x1b[0m ' + data[1] + '\n\n')
         elif data[0] == 'error':
             print ('\x1b[0;37;41m' + 'ERROR! @ ' + self.now.isoformat(' ')  + '\x1b[0m \n\x1b[0;37m' + 'MSG:' + '\x1b[0m ' + data[1] + '\n\n')
+        elif data[0] == 'isalnum':
+            input = str(data[1])
+            print (input.isalnum())
         else:
             print ('\x1b[0m' + 'Event @ ' + self.now.isoformat(' ')  + '\x1b[0m \n' + data[1] + '\n')
 
