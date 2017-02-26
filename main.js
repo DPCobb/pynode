@@ -21,13 +21,19 @@ class dataHold {
     // write to json file
     fs.writeFile('./tmp.json', JSON.stringify(this.locker, null, 2), (err) => {
       if (err) throw err;
-      // call method to manipulate data
-      this.test();
     });
+    switch (key[0]) {
+      case 'isalnum':
+        this.isalnum(this.locker)
+        break;
+      default:
+        break;
+    }
+
   }
-  test() {
-    let alnum;
-    alnum = JSON.parse(fs.readFileSync('tmp.json'))
+  isalnum(dataIn) {
+    let alnum = dataIn;
+    //alnum = JSON.parse(fs.readFileSync('tmp.json'))
     if(alnum.data === 'True\n') {
       console.log('The string was alphanumeric')
     } else {
