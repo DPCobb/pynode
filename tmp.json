@@ -1,4 +1,7 @@
 {
-  "key": "key",
+  "key": [
+    "isalnum",
+    "c2"
+  ],
   "data": "True\n"
 }

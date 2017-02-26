@@ -49,7 +49,7 @@ module.exports = {
     switch (py[0]) {
       case 'isalnum':
         if (py.length == 2){
-          this.passToPy(JSON.stringify(py))
+          this.passToFn(JSON.stringify(py))
         } else {
           console.error('Incorrect Format');
         }
@@ -57,6 +57,22 @@ module.exports = {
       default:
         break;
     }
+  },
+  passToFn(dataIn) {
+    const l = new dataHold
+    const py = spawn('python', [path.join(__dirname, '/log.py')]);
+    py.stdin.write(dataIn);
+    py.stdin.end();
+    let dataOut = '';
+    let key = JSON.parse(dataIn)
+    py.stdout.on('data', (dataReturn) => {
+      dataOut += dataReturn;
+      l.hold(dataOut, key)
+    });
+    py.stdout.on('close', () => {
+      console.log(dataOut);
+    });
+    return true;
   },
   passToPy(dataIn) {
     const l = new dataHold
