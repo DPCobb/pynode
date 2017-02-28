@@ -1,7 +1,8 @@
 {
   "key": [
-    "isalnum",
-    "c2"
+    "count",
+    "the cow jumped over the moon",
+    "the"
   ],
-  "data": "True\n"
+  "data": "2\n"
 }

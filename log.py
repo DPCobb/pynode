@@ -26,6 +26,9 @@ class Logger (object):
         elif data[0] == 'isalnum':
             input = str(data[1])
             print (input.isalnum())
+        elif data[0] == 'count':
+            input = str(data[1])
+            print (input.count(data[2]))
         else:
             print ('\x1b[0m' + 'Event @ ' + self.now.isoformat(' ')  + '\x1b[0m \n' + data[1] + '\n')
 

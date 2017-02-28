@@ -1,6 +1,6 @@
 /**
  *
- * pynode - a Python Based logger for NodeJS
+ * pynode - a Python Based tool for NodeJS
  * Daniel Cobb
  * 2-21-2017
  *
@@ -26,6 +26,8 @@ class dataHold {
       case 'isalnum':
         this.isalnum(this.locker)
         break;
+      case 'count':
+        this.count(this.locker)
       default:
         break;
     }
@@ -39,6 +41,10 @@ class dataHold {
     } else {
       console.log('The string was not alphanumeric')
     }
+  }
+  count(dataIn) {
+    let count = dataIn;
+    return count.data;
   }
 }
 
@@ -60,10 +66,13 @@ module.exports = {
           console.error('Incorrect Format');
         }
         break;
+      case 'count':
+        this.passToFn(JSON.stringify(py))
       default:
         break;
     }
   },
+  // handle data from pyFn
   passToFn(dataIn) {
     const l = new dataHold
     const py = spawn('python', [path.join(__dirname, '/log.py')]);
@@ -78,8 +87,9 @@ module.exports = {
     py.stdout.on('close', () => {
       console.log(dataOut);
     });
-    return true;
+    return dataOut;
   },
+  // handle normal log messages
   passToPy(dataIn) {
     const l = new dataHold
     const py = spawn('python', [path.join(__dirname, '/log.py')]);
@@ -94,5 +104,10 @@ module.exports = {
       console.log(dataOut);
     });
     return true;
+  },
+  result() {
+    const result = JSON.parse(fs.readFileSync('./tmp.json'));
+    console.log(result.data)
+    return result;
   }
 }

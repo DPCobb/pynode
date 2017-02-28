@@ -671,3 +671,173 @@ warning @ 2017-02-23T14:18:45.208317MSG: success hello world from test!
 -- isalnum @ 2017-02-26 01:19:06.018200 MSG: c2
 -- isalnum @ 2017-02-26 01:19:29.216694 MSG: c2
 -- isalnum @ 2017-02-26 01:19:49.694998 MSG: c2
+-- h @ 2017-02-26 01:22:22.824774 MSG: e
+-- isalnum @ 2017-02-26 01:22:22.833725 MSG: c2
+-- isalnum @ 2017-02-26 01:23:12.115918 MSG: c2
+-- [ @ 2017-02-26 01:23:12.115926 MSG: s
+-- success @ 2017-02-26 01:23:42.318308 MSG: hello world
+-- isalnum @ 2017-02-26 01:23:42.326408 MSG: c2
+-- success @ 2017-02-26 02:07:15.144812 MSG: hello world
+-- warning @ 2017-02-26 02:07:15.144776 MSG: hello world
+-- error @ 2017-02-26 02:07:15.144804 MSG: hello world
+-- isalnum @ 2017-02-26 02:07:15.144767 MSG: c2
+-- success @ 2017-02-28 17:20:15.337765 MSG: hello world
+-- error @ 2017-02-28 17:20:15.340927 MSG: hello world
+-- count @ 2017-02-28 17:20:15.346228 MSG: the cow jumped over the moon
+-- warning @ 2017-02-28 17:20:15.351526 MSG: hello world
+-- isalnum @ 2017-02-28 17:20:15.356467 MSG: c2
+-- success @ 2017-02-28 17:20:52.755320 MSG: hello world
+-- error @ 2017-02-28 17:20:52.766248 MSG: hello world
+-- warning @ 2017-02-28 17:20:52.769678 MSG: hello world
+-- isalnum @ 2017-02-28 17:20:52.771415 MSG: c2
+-- count @ 2017-02-28 17:20:52.774318 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:21:40.539186 MSG: hello world
+-- error @ 2017-02-28 17:21:40.553810 MSG: hello world
+-- warning @ 2017-02-28 17:21:40.555167 MSG: hello world
+-- isalnum @ 2017-02-28 17:21:40.556920 MSG: c2
+-- count @ 2017-02-28 17:21:40.558264 MSG: the cow jumped over the moon
+-- count @ 2017-02-28 17:21:40.564048 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:22:04.265004 MSG: hello world
+-- error @ 2017-02-28 17:22:04.277272 MSG: hello world
+-- warning @ 2017-02-28 17:22:04.280992 MSG: hello world
+-- isalnum @ 2017-02-28 17:22:04.283860 MSG: c2
+-- count @ 2017-02-28 17:22:04.283916 MSG: the cow jumped over the moon
+-- count @ 2017-02-28 17:22:04.288111 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:22:22.225375 MSG: hello world
+-- error @ 2017-02-28 17:22:22.237059 MSG: hello world
+-- warning @ 2017-02-28 17:22:22.243694 MSG: hello world
+-- isalnum @ 2017-02-28 17:22:22.243902 MSG: c2
+-- count @ 2017-02-28 17:22:22.244289 MSG: the cow jumped over the moon
+-- count @ 2017-02-28 17:22:22.248092 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:22:48.689859 MSG: hello world
+-- error @ 2017-02-28 17:22:48.703254 MSG: hello world
+-- warning @ 2017-02-28 17:22:48.704910 MSG: hello world
+-- isalnum @ 2017-02-28 17:22:48.707224 MSG: c2
+-- count @ 2017-02-28 17:22:48.708732 MSG: the cow jumped over the moon
+-- count @ 2017-02-28 17:22:48.713982 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:23:07.112550 MSG: hello world
+-- error @ 2017-02-28 17:23:07.127444 MSG: hello world
+-- warning @ 2017-02-28 17:23:07.128367 MSG: hello world
+-- isalnum @ 2017-02-28 17:23:07.130343 MSG: c2
+-- count @ 2017-02-28 17:23:07.131628 MSG: the cow jumped over the moon
+-- count @ 2017-02-28 17:23:07.135658 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:24:01.688242 MSG: hello world
+-- error @ 2017-02-28 17:24:01.701378 MSG: hello world
+-- isalnum @ 2017-02-28 17:24:01.704212 MSG: c2
+-- warning @ 2017-02-28 17:24:01.704776 MSG: hello world
+-- count @ 2017-02-28 17:24:01.708351 MSG: the cow jumped over the moon
+-- count @ 2017-02-28 17:24:01.710320 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:24:36.172686 MSG: hello world
+-- error @ 2017-02-28 17:24:36.185213 MSG: hello world
+-- warning @ 2017-02-28 17:24:36.187838 MSG: hello world
+-- isalnum @ 2017-02-28 17:24:36.190279 MSG: c2
+-- count @ 2017-02-28 17:24:36.191438 MSG: the cow jumped over the moon
+-- count @ 2017-02-28 17:24:36.195708 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:24:45.667839 MSG: hello world
+-- error @ 2017-02-28 17:24:45.683301 MSG: hello world
+-- warning @ 2017-02-28 17:24:45.684474 MSG: hello world
+-- isalnum @ 2017-02-28 17:24:45.687767 MSG: c2
+-- count @ 2017-02-28 17:24:45.688967 MSG: the cow jumped over the moon
+-- count @ 2017-02-28 17:24:45.691927 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:24:58.032578 MSG: hello world
+-- error @ 2017-02-28 17:24:58.046441 MSG: hello world
+-- warning @ 2017-02-28 17:24:58.047161 MSG: hello world
+-- isalnum @ 2017-02-28 17:24:58.049475 MSG: c2
+-- count @ 2017-02-28 17:24:58.051578 MSG: the cow jumped over the moon
+-- count @ 2017-02-28 17:24:58.058621 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:26:25.536551 MSG: hello world
+-- error @ 2017-02-28 17:26:25.549058 MSG: hello world
+-- warning @ 2017-02-28 17:26:25.552078 MSG: hello world
+-- count @ 2017-02-28 17:26:25.554385 MSG: the cow jumped over the moon
+-- isalnum @ 2017-02-28 17:26:25.555244 MSG: c2
+-- count @ 2017-02-28 17:26:25.564541 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:28:30.891921 MSG: hello world
+-- error @ 2017-02-28 17:28:30.903580 MSG: hello world
+-- warning @ 2017-02-28 17:28:30.904714 MSG: hello world
+-- isalnum @ 2017-02-28 17:28:30.907664 MSG: c2
+-- count @ 2017-02-28 17:28:30.908667 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:28:48.233386 MSG: hello world
+-- error @ 2017-02-28 17:28:48.245186 MSG: hello world
+-- isalnum @ 2017-02-28 17:28:48.247452 MSG: c2
+-- warning @ 2017-02-28 17:28:48.248015 MSG: hello world
+-- count @ 2017-02-28 17:28:48.250233 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:28:58.163612 MSG: hello world
+-- warning @ 2017-02-28 17:28:58.176662 MSG: hello world
+-- error @ 2017-02-28 17:28:58.177002 MSG: hello world
+-- count @ 2017-02-28 17:28:58.178691 MSG: the cow jumped over the moon
+-- isalnum @ 2017-02-28 17:28:58.179345 MSG: c2
+-- success @ 2017-02-28 17:29:19.984628 MSG: hello world
+-- error @ 2017-02-28 17:29:19.994518 MSG: hello world
+-- warning @ 2017-02-28 17:29:19.998244 MSG: hello world
+-- isalnum @ 2017-02-28 17:29:19.998698 MSG: c2
+-- count @ 2017-02-28 17:29:19.999965 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:29:29.603083 MSG: hello world
+-- error @ 2017-02-28 17:29:29.615045 MSG: hello world
+-- warning @ 2017-02-28 17:29:29.616774 MSG: hello world
+-- isalnum @ 2017-02-28 17:29:29.618178 MSG: c2
+-- count @ 2017-02-28 17:29:29.619139 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:29:35.699337 MSG: hello world
+-- error @ 2017-02-28 17:29:35.709386 MSG: hello world
+-- warning @ 2017-02-28 17:29:35.712378 MSG: hello world
+-- isalnum @ 2017-02-28 17:29:35.712889 MSG: c2
+-- count @ 2017-02-28 17:29:35.713033 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:29:44.016536 MSG: hello world
+-- error @ 2017-02-28 17:29:44.027464 MSG: hello world
+-- warning @ 2017-02-28 17:29:44.030569 MSG: hello world
+-- count @ 2017-02-28 17:29:44.033217 MSG: the cow jumped over the moon
+-- isalnum @ 2017-02-28 17:29:44.034397 MSG: c2
+-- success @ 2017-02-28 17:30:29.416052 MSG: hello world
+-- error @ 2017-02-28 17:30:29.425584 MSG: hello world
+-- warning @ 2017-02-28 17:30:29.427731 MSG: hello world
+-- isalnum @ 2017-02-28 17:30:29.430722 MSG: c2
+-- count @ 2017-02-28 17:30:29.431243 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:31:01.207776 MSG: hello world
+-- error @ 2017-02-28 17:31:01.217491 MSG: hello world
+-- warning @ 2017-02-28 17:31:01.219801 MSG: hello world
+-- isalnum @ 2017-02-28 17:31:01.221555 MSG: c2
+-- count @ 2017-02-28 17:31:01.222576 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:31:23.272983 MSG: hello world
+-- error @ 2017-02-28 17:31:23.282990 MSG: hello world
+-- warning @ 2017-02-28 17:31:23.286334 MSG: hello world
+-- isalnum @ 2017-02-28 17:31:23.288434 MSG: c2
+-- count @ 2017-02-28 17:31:23.289336 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:31:32.733955 MSG: hello world
+-- error @ 2017-02-28 17:31:32.743869 MSG: hello world
+-- warning @ 2017-02-28 17:31:32.748928 MSG: hello world
+-- isalnum @ 2017-02-28 17:31:32.750263 MSG: c2
+-- count @ 2017-02-28 17:31:32.751122 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:32:11.109970 MSG: hello world
+-- error @ 2017-02-28 17:32:11.121650 MSG: hello world
+-- warning @ 2017-02-28 17:32:11.124869 MSG: hello world
+-- isalnum @ 2017-02-28 17:32:11.126097 MSG: c2
+-- count @ 2017-02-28 17:32:11.128611 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:32:22.292010 MSG: hello world
+-- error @ 2017-02-28 17:32:22.303790 MSG: hello world
+-- count @ 2017-02-28 17:32:22.310196 MSG: the cow jumped over the moon
+-- warning @ 2017-02-28 17:32:22.307705 MSG: hello world
+-- isalnum @ 2017-02-28 17:32:22.309816 MSG: c2
+-- error @ 2017-02-28 17:34:16.109348 MSG: hello world
+-- success @ 2017-02-28 17:34:16.110177 MSG: hello world
+-- warning @ 2017-02-28 17:34:16.114191 MSG: hello world
+-- isalnum @ 2017-02-28 17:34:16.114262 MSG: c2
+-- count @ 2017-02-28 17:34:16.117094 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:34:22.200309 MSG: hello world
+-- error @ 2017-02-28 17:34:22.211678 MSG: hello world
+-- warning @ 2017-02-28 17:34:22.218488 MSG: hello world
+-- isalnum @ 2017-02-28 17:34:22.219617 MSG: c2
+-- count @ 2017-02-28 17:34:22.219679 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:34:57.447054 MSG: hello world
+-- error @ 2017-02-28 17:34:57.456932 MSG: hello world
+-- warning @ 2017-02-28 17:34:57.461374 MSG: hello world
+-- isalnum @ 2017-02-28 17:34:57.463180 MSG: c2
+-- count @ 2017-02-28 17:34:57.466829 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:35:18.012183 MSG: hello world
+-- error @ 2017-02-28 17:35:18.026362 MSG: hello world
+-- isalnum @ 2017-02-28 17:35:18.030212 MSG: c2
+-- warning @ 2017-02-28 17:35:18.031821 MSG: hello world
+-- count @ 2017-02-28 17:35:18.033556 MSG: the cow jumped over the moon
+-- success @ 2017-02-28 17:37:38.341655 MSG: hello world
+-- error @ 2017-02-28 17:37:38.353378 MSG: hello world
+-- warning @ 2017-02-28 17:37:38.355791 MSG: hello world
+-- isalnum @ 2017-02-28 17:37:38.356618 MSG: c2
+-- count @ 2017-02-28 17:37:38.362596 MSG: the cow jumped over the moon
