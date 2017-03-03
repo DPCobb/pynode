@@ -1,894 +1,594 @@
-success @ 2017-02-23T14:18:45.198441MSG: success hello world from test!
-error @ 2017-02-23T14:18:45.206409MSG: success hello world from test!
-warning @ 2017-02-23T14:18:45.208317MSG: success hello world from test!
-
--- success @ 2017-02-23T14:19:21.482836MSG: success hello world from test!
-
--- error @ 2017-02-23T14:19:21.489944MSG: success hello world from test!
-
--- warning @ 2017-02-23T14:19:21.492080MSG: success hello world from test!
-
--- success @ 2017-02-23 14:22:39.803983 MSG: success hello world from test!
-
--- error @ 2017-02-23 14:22:39.811614 MSG: success hello world from test!
-
--- warning @ 2017-02-23 14:22:39.813601 MSG: success hello world from test!
--- success @ 2017-02-23 18:00:09.876199 MSG: success hello world from test!
--- warning @ 2017-02-23 18:00:09.874596 MSG: success hello world from test!
--- error @ 2017-02-23 18:00:09.882006 MSG: success hello world from test!
--- success @ 2017-02-23 18:01:06.970920 MSG: success hello world from test!
--- error @ 2017-02-23 18:01:06.976846 MSG: success hello world from test!
--- warning @ 2017-02-23 18:01:06.980073 MSG: success hello world from test!
--- success @ 2017-02-23 18:01:43.208024 MSG: success hello world from test!
--- error @ 2017-02-23 18:01:43.217146 MSG: success hello world from test!
--- warning @ 2017-02-23 18:01:43.218111 MSG: success hello world from test!
--- success @ 2017-02-23 18:01:57.240527 MSG: success hello world from test!
--- error @ 2017-02-23 18:01:57.251151 MSG: success hello world from test!
--- warning @ 2017-02-23 18:01:57.254922 MSG: success hello world from test!
--- success @ 2017-02-23 18:02:17.802290 MSG: success hello world from test!
--- error @ 2017-02-23 18:02:17.810350 MSG: success hello world from test!
--- warning @ 2017-02-23 18:02:17.813018 MSG: success hello world from test!
--- success @ 2017-02-23 18:03:07.743593 MSG: success hello world from test!
--- error @ 2017-02-23 18:03:07.753083 MSG: success hello world from test!
--- warning @ 2017-02-23 18:03:07.754048 MSG: success hello world from test!
--- success @ 2017-02-23 18:03:25.669319 MSG: success hello world from test!
--- error @ 2017-02-23 18:03:25.678271 MSG: success hello world from test!
--- warning @ 2017-02-23 18:03:25.680174 MSG: success hello world from test!
--- success @ 2017-02-23 18:03:43.358098 MSG: success hello world from test!
--- error @ 2017-02-23 18:03:43.367956 MSG: success hello world from test!
--- warning @ 2017-02-23 18:03:43.369283 MSG: success hello world from test!
--- success @ 2017-02-23 18:03:50.205829 MSG: success hello world from test!
--- error @ 2017-02-23 18:03:50.214365 MSG: success hello world from test!
--- warning @ 2017-02-23 18:03:50.215602 MSG: success hello world from test!
--- success @ 2017-02-23 18:04:02.091715 MSG: success hello world from test!
--- error @ 2017-02-23 18:04:02.101928 MSG: success hello world from test!
--- warning @ 2017-02-23 18:04:02.102580 MSG: success hello world from test!
--- success @ 2017-02-23 18:04:29.336092 MSG: success hello world from test!
--- error @ 2017-02-23 18:04:29.346551 MSG: success hello world from test!
--- warning @ 2017-02-23 18:04:29.347291 MSG: success hello world from test!
--- success @ 2017-02-23 18:05:03.242894 MSG: success hello world from test!
--- error @ 2017-02-23 18:05:03.252344 MSG: success hello world from test!
--- warning @ 2017-02-23 18:05:03.254042 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:05:03.256711 MSG: this is something
--- success @ 2017-02-23 18:05:19.294396 MSG: success hello world from test!
--- error @ 2017-02-23 18:05:19.303137 MSG: success hello world from test!
--- warning @ 2017-02-23 18:05:19.305390 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:05:19.307112 MSG: this is something 2
--- success @ 2017-02-23 18:06:00.488175 MSG: success hello world from test!
--- error @ 2017-02-23 18:06:00.499366 MSG: success hello world from test!
--- warning @ 2017-02-23 18:06:00.499939 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:06:00.500303 MSG: this is something
--- success @ 2017-02-23 18:06:17.160245 MSG: success hello world from test!
--- error @ 2017-02-23 18:06:17.169483 MSG: success hello world from test!
--- warning @ 2017-02-23 18:06:17.173190 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:06:17.173711 MSG: this is something
--- success @ 2017-02-23 18:06:32.198995 MSG: success hello world from test!
--- error @ 2017-02-23 18:06:32.208422 MSG: success hello world from test!
--- warning @ 2017-02-23 18:06:32.210255 MSG: success hello world from test!
--- success @ 2017-02-23 18:07:48.461116 MSG: success hello world from test!
--- error @ 2017-02-23 18:07:48.469087 MSG: success hello world from test!
--- warning @ 2017-02-23 18:07:48.471705 MSG: success hello world from test!
--- success @ 2017-02-23 18:07:59.269300 MSG: success hello world from test!
--- error @ 2017-02-23 18:07:59.278855 MSG: success hello world from test!
--- warning @ 2017-02-23 18:07:59.281511 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:07:59.282207 MSG: this is something
--- success @ 2017-02-23 18:08:22.324331 MSG: success hello world from test!
--- error @ 2017-02-23 18:08:22.333568 MSG: success hello world from test!
--- warning @ 2017-02-23 18:08:22.335578 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:08:22.336693 MSG: this is something
--- success @ 2017-02-23 18:08:37.827542 MSG: success hello world from test!
--- error @ 2017-02-23 18:08:37.837356 MSG: success hello world from test!
--- warning @ 2017-02-23 18:08:37.838747 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:08:37.841607 MSG: this is something
--- success @ 2017-02-23 18:08:55.650063 MSG: success hello world from test!
--- error @ 2017-02-23 18:08:55.660513 MSG: success hello world from test!
--- warning @ 2017-02-23 18:08:55.662282 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:08:55.662733 MSG: this is something 3
--- success @ 2017-02-23 18:09:03.956602 MSG: success hello world from test!
--- error @ 2017-02-23 18:09:03.965093 MSG: success hello world from test!
--- warning @ 2017-02-23 18:09:03.968633 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:09:03.970506 MSG: this is something
--- success @ 2017-02-23 18:43:45.323224 MSG: success hello world from test!
--- error @ 2017-02-23 18:43:45.342224 MSG: success hello world from test!
--- warning @ 2017-02-23 18:43:45.345958 MSG: success hello world from test!
--- success @ 2017-02-23 18:44:00.003347 MSG: success hello world from test!
--- error @ 2017-02-23 18:44:00.014198 MSG: success hello world from test!
--- warning @ 2017-02-23 18:44:00.016651 MSG: success hello world from test!
--- success @ 2017-02-23 18:44:06.234134 MSG: success hello world from test!
--- error @ 2017-02-23 18:44:06.241854 MSG: success hello world from test!
--- warning @ 2017-02-23 18:44:06.244320 MSG: success hello world from test!
--- success @ 2017-02-23 18:44:15.625992 MSG: success hello world from test!
--- error @ 2017-02-23 18:44:15.634044 MSG: success hello world from test!
--- warning @ 2017-02-23 18:44:15.637179 MSG: success hello world from test!
--- success @ 2017-02-23 18:45:46.670928 MSG: success hello world from test!
--- error @ 2017-02-23 18:45:46.681308 MSG: success hello world from test!
--- warning @ 2017-02-23 18:45:46.683136 MSG: success hello world from test!
--- success @ 2017-02-23 18:45:58.822452 MSG: success hello world from test!
--- error @ 2017-02-23 18:45:58.830936 MSG: success hello world from test!
--- warning @ 2017-02-23 18:45:58.833641 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:45:58.835295 MSG: this is something
--- success @ 2017-02-23 18:46:23.781203 MSG: success hello world from test!
--- error @ 2017-02-23 18:46:23.789788 MSG: success hello world from test!
--- warning @ 2017-02-23 18:46:23.791635 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:46:23.792587 MSG: this is something
--- success @ 2017-02-23 18:46:45.456721 MSG: success hello world from test!
--- error @ 2017-02-23 18:46:45.465327 MSG: success hello world from test!
--- warning @ 2017-02-23 18:46:45.468598 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:46:45.469003 MSG: this is something
--- success @ 2017-02-23 18:46:52.502879 MSG: success hello world from test!
--- error @ 2017-02-23 18:46:52.511487 MSG: success hello world from test!
--- warning @ 2017-02-23 18:46:52.514099 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:46:52.514390 MSG: this is something
--- success @ 2017-02-23 18:46:57.667331 MSG: success hello world from test!
--- error @ 2017-02-23 18:46:57.676397 MSG: success hello world from test!
--- warning @ 2017-02-23 18:46:57.678087 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:46:57.678694 MSG: this is something
--- success @ 2017-02-23 18:47:50.535091 MSG: success hello world from test!
--- error @ 2017-02-23 18:47:50.543551 MSG: success hello world from test!
--- warning @ 2017-02-23 18:47:50.546079 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:47:50.548301 MSG: this is something
--- success @ 2017-02-23 18:48:37.041415 MSG: success hello world from test!
--- error @ 2017-02-23 18:48:37.051304 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:48:37.052456 MSG: this is something
--- warning @ 2017-02-23 18:48:37.053460 MSG: success hello world from test!
--- success @ 2017-02-23 18:50:14.407304 MSG: success hello world from test!
--- error @ 2017-02-23 18:50:14.416703 MSG: success hello world from test!
--- warning @ 2017-02-23 18:50:14.418948 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:50:14.420773 MSG: this is something
--- success @ 2017-02-23 18:50:31.935716 MSG: success hello world from test!
--- error @ 2017-02-23 18:50:31.944258 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:50:31.947478 MSG: this is something
--- warning @ 2017-02-23 18:50:31.948084 MSG: success hello world from test!
--- success @ 2017-02-23 18:50:57.046966 MSG: success hello world from test!
--- error @ 2017-02-23 18:50:57.056355 MSG: success hello world from test!
--- warning @ 2017-02-23 18:50:57.058607 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:50:57.060649 MSG: c2
--- success @ 2017-02-23 18:51:16.332841 MSG: success hello world from test!
--- error @ 2017-02-23 18:51:16.342116 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:51:16.345559 MSG: c2
--- warning @ 2017-02-23 18:51:16.345949 MSG: success hello world from test!
--- success @ 2017-02-23 18:51:28.062424 MSG: success hello world from test!
--- error @ 2017-02-23 18:51:28.070146 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:51:28.072429 MSG: c2
--- warning @ 2017-02-23 18:51:28.072522 MSG: success hello world from test!
--- success @ 2017-02-23 18:51:43.262747 MSG: success hello world from test!
--- error @ 2017-02-23 18:51:43.272039 MSG: success hello world from test!
--- warning @ 2017-02-23 18:51:43.274883 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:51:43.275878 MSG: c2
--- success @ 2017-02-23 18:52:02.145684 MSG: success hello world from test!
--- error @ 2017-02-23 18:52:02.154837 MSG: success hello world from test!
--- warning @ 2017-02-23 18:52:02.157168 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:52:02.158259 MSG: c2
--- success @ 2017-02-23 18:52:25.416478 MSG: success hello world from test!
--- error @ 2017-02-23 18:52:25.424778 MSG: success hello world from test!
--- warning @ 2017-02-23 18:52:25.426987 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:52:25.427758 MSG: c2
--- success @ 2017-02-23 18:52:45.271666 MSG: success hello world from test!
--- error @ 2017-02-23 18:52:45.282059 MSG: success hello world from test!
--- warning @ 2017-02-23 18:52:45.283454 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:52:45.285354 MSG: c2
--- success @ 2017-02-23 18:53:01.656453 MSG: success hello world from test!
--- error @ 2017-02-23 18:53:01.667138 MSG: success hello world from test!
--- warning @ 2017-02-23 18:53:01.668751 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:53:01.669704 MSG: c2
--- success @ 2017-02-23 18:55:25.252146 MSG: success hello world from test!
--- error @ 2017-02-23 18:55:25.260271 MSG: success hello world from test!
--- warning @ 2017-02-23 18:55:25.261603 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:55:25.263326 MSG: c2
--- success @ 2017-02-23 18:56:17.041936 MSG: success hello world from test!
--- success @ 2017-02-23 18:57:59.054075 MSG: success hello world from test!
--- error @ 2017-02-23 18:57:59.063850 MSG: success hello world from test!
--- warning @ 2017-02-23 18:57:59.065959 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:57:59.068990 MSG: c2
--- success @ 2017-02-23 18:58:36.801288 MSG: success hello world from test!
--- error @ 2017-02-23 18:58:36.812653 MSG: success hello world from test!
--- warning @ 2017-02-23 18:58:36.813932 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:58:36.815962 MSG: c2
--- success @ 2017-02-23 18:59:41.533524 MSG: success hello world from test!
--- error @ 2017-02-23 18:59:41.543569 MSG: success hello world from test!
--- warning @ 2017-02-23 18:59:41.546089 MSG: success hello world from test!
--- isalnum @ 2017-02-23 18:59:41.548459 MSG: c2
--- success @ 2017-02-23 19:00:03.636883 MSG: success hello world from test!
--- error @ 2017-02-23 19:00:03.648298 MSG: success hello world from test!
--- warning @ 2017-02-23 19:00:03.651034 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:00:03.652704 MSG: c2
--- success @ 2017-02-23 19:00:39.685670 MSG: success hello world from test!
--- error @ 2017-02-23 19:00:39.694247 MSG: success hello world from test!
--- warning @ 2017-02-23 19:00:39.696799 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:00:39.698073 MSG: c2
--- success @ 2017-02-23 19:01:45.339781 MSG: success hello world from test!
--- error @ 2017-02-23 19:01:45.347992 MSG: success hello world from test!
--- warning @ 2017-02-23 19:01:45.350518 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:01:45.351023 MSG: c2
--- success @ 2017-02-23 19:02:20.798354 MSG: success hello world from test!
--- error @ 2017-02-23 19:02:20.807797 MSG: success hello world from test!
--- warning @ 2017-02-23 19:02:20.810869 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:02:20.810841 MSG: c2
--- success @ 2017-02-23 19:02:39.916653 MSG: success hello world from test!
--- error @ 2017-02-23 19:02:39.925034 MSG: success hello world from test!
--- warning @ 2017-02-23 19:02:39.927862 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:02:39.929521 MSG: c2
--- success @ 2017-02-23 19:03:10.276269 MSG: success hello world from test!
--- error @ 2017-02-23 19:03:10.288436 MSG: success hello world from test!
--- warning @ 2017-02-23 19:03:10.289450 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:03:10.292467 MSG: c2
--- success @ 2017-02-23 19:03:31.747558 MSG: success hello world from test!
--- error @ 2017-02-23 19:03:31.760488 MSG: success hello world from test!
--- warning @ 2017-02-23 19:03:31.764169 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:03:31.764481 MSG: c2
--- success @ 2017-02-23 19:03:50.562758 MSG: success hello world from test!
--- error @ 2017-02-23 19:03:50.576313 MSG: success hello world from test!
--- warning @ 2017-02-23 19:03:50.577362 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:03:50.578770 MSG: c2
--- success @ 2017-02-23 19:04:16.051478 MSG: success hello world from test!
--- error @ 2017-02-23 19:04:16.066111 MSG: success hello world from test!
--- warning @ 2017-02-23 19:04:16.067131 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:04:16.068326 MSG: c2
--- success @ 2017-02-23 19:04:35.002143 MSG: success hello world from test!
--- error @ 2017-02-23 19:04:35.014453 MSG: success hello world from test!
--- warning @ 2017-02-23 19:04:35.016534 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:04:35.017895 MSG: c2
--- success @ 2017-02-23 19:04:50.856814 MSG: success hello world from test!
--- error @ 2017-02-23 19:04:50.868480 MSG: success hello world from test!
--- warning @ 2017-02-23 19:04:50.870738 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:04:50.870976 MSG: c2
--- success @ 2017-02-23 19:05:27.778966 MSG: success hello world from test!
--- error @ 2017-02-23 19:05:27.790699 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:05:27.794656 MSG: c2
--- warning @ 2017-02-23 19:05:27.794527 MSG: success hello world from test!
--- success @ 2017-02-23 19:05:40.901683 MSG: success hello world from test!
--- error @ 2017-02-23 19:05:40.913846 MSG: success hello world from test!
--- warning @ 2017-02-23 19:05:40.916802 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:05:40.917541 MSG: c2
--- success @ 2017-02-23 19:05:58.461807 MSG: success hello world from test!
--- success @ 2017-02-23 19:06:20.853719 MSG: success hello world from test!
--- error @ 2017-02-23 19:06:20.867241 MSG: success hello world from test!
--- warning @ 2017-02-23 19:06:20.869286 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:06:20.870681 MSG: c2
--- success @ 2017-02-23 19:07:03.958105 MSG: success hello world from test!
--- success @ 2017-02-23 19:07:13.980574 MSG: success hello world from test!
--- error @ 2017-02-23 19:07:13.993876 MSG: success hello world from test!
--- warning @ 2017-02-23 19:07:13.994880 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:07:13.997074 MSG: c2
--- success @ 2017-02-23 19:07:55.290306 MSG: success hello world from test!
--- error @ 2017-02-23 19:07:55.303111 MSG: success hello world from test!
--- warning @ 2017-02-23 19:07:55.305639 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:07:55.305976 MSG: c2
--- success @ 2017-02-23 19:08:16.041532 MSG: success hello world from test!
--- error @ 2017-02-23 19:08:16.055643 MSG: success hello world from test!
--- warning @ 2017-02-23 19:08:16.058197 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:08:16.059291 MSG: c2
--- success @ 2017-02-23 19:08:33.937406 MSG: success hello world from test!
--- error @ 2017-02-23 19:08:33.946345 MSG: success hello world from test!
--- warning @ 2017-02-23 19:08:33.948865 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:08:33.949436 MSG: c2
--- success @ 2017-02-23 19:09:09.113113 MSG: success hello world from test!
--- error @ 2017-02-23 19:09:09.122366 MSG: success hello world from test!
--- warning @ 2017-02-23 19:09:09.125419 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:09:09.125638 MSG: c2
--- success @ 2017-02-23 19:09:30.216747 MSG: success hello world from test!
--- error @ 2017-02-23 19:09:30.225405 MSG: success hello world from test!
--- warning @ 2017-02-23 19:09:30.227577 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:09:30.229867 MSG: c2
--- success @ 2017-02-23 19:10:46.215720 MSG: success hello world from test!
--- error @ 2017-02-23 19:10:46.225495 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:10:46.227775 MSG: c2
--- warning @ 2017-02-23 19:10:46.227965 MSG: success hello world from test!
--- success @ 2017-02-23 19:11:21.941867 MSG: success hello world from test!
--- error @ 2017-02-23 19:11:21.950723 MSG: success hello world from test!
--- warning @ 2017-02-23 19:11:21.954132 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:11:21.955557 MSG: c2
--- success @ 2017-02-23 19:11:36.527934 MSG: success hello world from test!
--- error @ 2017-02-23 19:11:36.536383 MSG: success hello world from test!
--- warning @ 2017-02-23 19:11:36.539303 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:11:36.541127 MSG: c2
--- success @ 2017-02-23 19:12:54.402047 MSG: success hello world from test!
--- error @ 2017-02-23 19:12:54.410523 MSG: success hello world from test!
--- warning @ 2017-02-23 19:12:54.413891 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:12:54.413882 MSG: c2
--- success @ 2017-02-23 19:13:09.012526 MSG: success hello world from test!
--- error @ 2017-02-23 19:13:09.022622 MSG: success hello world from test!
--- warning @ 2017-02-23 19:13:09.025375 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:13:09.026120 MSG: c2
--- success @ 2017-02-23 19:13:24.113246 MSG: success hello world from test!
--- error @ 2017-02-23 19:13:24.122829 MSG: success hello world from test!
--- warning @ 2017-02-23 19:13:24.124927 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:13:24.126435 MSG: c2
--- success @ 2017-02-23 19:13:35.631794 MSG: success hello world from test!
--- error @ 2017-02-23 19:13:35.640780 MSG: success hello world from test!
--- warning @ 2017-02-23 19:13:35.643899 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:13:35.645516 MSG: c2
--- isalnum @ 2017-02-23 19:23:28.984365 MSG: c2
--- success @ 2017-02-23 19:23:28.984349 MSG: success hello world from test!
--- warning @ 2017-02-23 19:23:28.984284 MSG: success hello world from test!
--- error @ 2017-02-23 19:23:28.984929 MSG: success hello world from test!
--- success @ 2017-02-23 19:24:07.115407 MSG: success hello world from test!
--- error @ 2017-02-23 19:24:07.125097 MSG: success hello world from test!
--- warning @ 2017-02-23 19:24:07.126958 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:24:07.128386 MSG: c2
--- success @ 2017-02-23 19:24:26.002327 MSG: success hello world from test!
--- error @ 2017-02-23 19:24:26.010868 MSG: success hello world from test!
--- warning @ 2017-02-23 19:24:26.014808 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:24:26.015885 MSG: c2
--- success @ 2017-02-23 19:24:36.730151 MSG: success hello world from test!
--- error @ 2017-02-23 19:24:36.739100 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:24:36.742079 MSG: c2
--- warning @ 2017-02-23 19:24:36.742293 MSG: success hello world from test!
--- success @ 2017-02-23 19:24:45.196720 MSG: success hello world from test!
--- error @ 2017-02-23 19:24:45.206401 MSG: success hello world from test!
--- warning @ 2017-02-23 19:24:45.207720 MSG: success hello world from test!
--- success @ 2017-02-23 19:24:51.954291 MSG: success hello world from test!
--- error @ 2017-02-23 19:24:51.963581 MSG: success hello world from test!
--- warning @ 2017-02-23 19:24:51.965053 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:24:51.966424 MSG: c2
--- success @ 2017-02-23 19:25:43.801513 MSG: success hello world from test!
--- error @ 2017-02-23 19:25:43.808825 MSG: success hello world from test!
--- warning @ 2017-02-23 19:25:43.811716 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:25:43.813025 MSG: c2
--- success @ 2017-02-23 19:25:52.515186 MSG: success hello world from test!
--- error @ 2017-02-23 19:25:52.526835 MSG: success hello world from test!
--- warning @ 2017-02-23 19:25:52.527877 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:25:52.529794 MSG: c2
--- success @ 2017-02-23 19:26:06.894572 MSG: success hello world from test!
--- error @ 2017-02-23 19:26:06.907104 MSG: success hello world from test!
--- warning @ 2017-02-23 19:26:06.909209 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:26:06.909918 MSG: c2
--- success @ 2017-02-23 19:26:23.126054 MSG: success hello world from test!
--- error @ 2017-02-23 19:26:23.137820 MSG: success hello world from test!
--- warning @ 2017-02-23 19:26:23.139528 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:26:23.141507 MSG: c2
--- success @ 2017-02-23 19:34:16.513249 MSG: success hello world from test!
--- error @ 2017-02-23 19:34:16.524639 MSG: success hello world from test!
--- warning @ 2017-02-23 19:34:16.524641 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:34:16.525518 MSG: c2
--- success @ 2017-02-23 19:34:26.751102 MSG: success hello world from test!
--- error @ 2017-02-23 19:34:26.761085 MSG: success hello world from test!
--- warning @ 2017-02-23 19:34:26.763922 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:34:26.764294 MSG: c2
--- success @ 2017-02-23 19:34:46.707775 MSG: success hello world from test!
--- error @ 2017-02-23 19:34:46.718206 MSG: success hello world from test!
--- warning @ 2017-02-23 19:34:46.721562 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:34:46.721806 MSG: c2
--- success @ 2017-02-23 19:35:06.403513 MSG: success hello world from test!
--- error @ 2017-02-23 19:35:06.415816 MSG: success hello world from test!
--- warning @ 2017-02-23 19:35:06.416451 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:35:06.418297 MSG: c2
--- success @ 2017-02-23 19:37:47.215648 MSG: success hello world from test!
--- error @ 2017-02-23 19:37:47.225034 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:37:47.227366 MSG: c2
--- warning @ 2017-02-23 19:37:47.227737 MSG: success hello world from test!
--- success @ 2017-02-23 19:37:59.243232 MSG: success hello world from test!
--- error @ 2017-02-23 19:37:59.252337 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:37:59.254016 MSG: c2
--- warning @ 2017-02-23 19:37:59.254115 MSG: success hello world from test!
--- success @ 2017-02-23 19:38:29.475280 MSG: success hello world from test!
--- error @ 2017-02-23 19:38:29.483581 MSG: success hello world from test!
--- warning @ 2017-02-23 19:38:29.485080 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:38:29.487235 MSG: c2
--- success @ 2017-02-23 19:38:51.681029 MSG: success hello world from test!
--- error @ 2017-02-23 19:38:51.691997 MSG: success hello world from test!
--- warning @ 2017-02-23 19:38:51.692754 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:38:51.695133 MSG: c2
--- success @ 2017-02-23 19:39:07.395993 MSG: success hello world from test!
--- error @ 2017-02-23 19:39:07.407642 MSG: success hello world from test!
--- warning @ 2017-02-23 19:39:07.410041 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:39:07.411738 MSG: c2
--- success @ 2017-02-23 19:39:29.133895 MSG: success hello world from test!
--- success @ 2017-02-23 19:39:54.689526 MSG: success hello world from test!
--- error @ 2017-02-23 19:39:54.700458 MSG: success hello world from test!
--- warning @ 2017-02-23 19:39:54.702565 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:39:54.704641 MSG: c2
--- success @ 2017-02-23 19:41:10.532181 MSG: success hello world from test!
--- error @ 2017-02-23 19:41:10.545747 MSG: success hello world from test!
--- warning @ 2017-02-23 19:41:10.547123 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:41:10.547826 MSG: c2
--- success @ 2017-02-23 19:41:25.987807 MSG: success hello world from test!
--- error @ 2017-02-23 19:41:25.999952 MSG: success hello world from test!
--- warning @ 2017-02-23 19:41:26.001188 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:41:26.002210 MSG: c2
--- success @ 2017-02-23 19:41:36.756654 MSG: success hello world from test!
--- error @ 2017-02-23 19:41:36.767005 MSG: success hello world from test!
--- warning @ 2017-02-23 19:41:36.768113 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:41:36.769530 MSG: c2
--- success @ 2017-02-23 19:43:20.479211 MSG: success hello world from test!
--- error @ 2017-02-23 19:43:20.486921 MSG: success hello world from test!
--- warning @ 2017-02-23 19:43:20.488967 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:43:20.490301 MSG: c2
--- success @ 2017-02-23 19:47:25.914653 MSG: success hello world from test!
--- error @ 2017-02-23 19:47:25.924622 MSG: success hello world from test!
--- warning @ 2017-02-23 19:47:25.925993 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:47:25.928207 MSG: c2
--- success @ 2017-02-23 19:47:42.110371 MSG: success hello world from test!
--- error @ 2017-02-23 19:47:42.119596 MSG: success hello world from test!
--- warning @ 2017-02-23 19:47:42.121003 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:47:42.122009 MSG: c2
--- success @ 2017-02-23 19:48:09.794735 MSG: success hello world from test!
--- error @ 2017-02-23 19:48:09.804682 MSG: success hello world from test!
--- warning @ 2017-02-23 19:48:09.807897 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:48:09.808486 MSG: c2
--- success @ 2017-02-23 19:48:16.934131 MSG: success hello world from test!
--- error @ 2017-02-23 19:48:16.944434 MSG: success hello world from test!
--- warning @ 2017-02-23 19:48:16.945450 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:48:16.947051 MSG: c2
--- success @ 2017-02-23 19:48:22.539021 MSG: success hello world from test!
--- error @ 2017-02-23 19:48:22.548266 MSG: success hello world from test!
--- warning @ 2017-02-23 19:48:22.552897 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:48:22.552857 MSG: c2
--- success @ 2017-02-23 19:48:37.522969 MSG: success hello world from test!
--- error @ 2017-02-23 19:48:37.532361 MSG: success hello world from test!
--- warning @ 2017-02-23 19:48:37.535853 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:48:37.536591 MSG: c2
--- success @ 2017-02-23 19:48:51.157043 MSG: success hello world from test!
--- error @ 2017-02-23 19:48:51.166936 MSG: success hello world from test!
--- warning @ 2017-02-23 19:48:51.169673 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:48:51.169572 MSG: c2
--- success @ 2017-02-23 19:49:12.688373 MSG: success hello world from test!
--- error @ 2017-02-23 19:49:12.697171 MSG: success hello world from test!
--- warning @ 2017-02-23 19:49:12.700968 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:49:12.702576 MSG: c2
--- success @ 2017-02-23 19:49:21.205248 MSG: success hello world from test!
--- error @ 2017-02-23 19:49:21.213606 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:49:21.218159 MSG: c2
--- warning @ 2017-02-23 19:49:21.218469 MSG: success hello world from test!
--- success @ 2017-02-23 19:49:35.149225 MSG: success hello world from test!
--- error @ 2017-02-23 19:49:35.159459 MSG: success hello world from test!
--- warning @ 2017-02-23 19:49:35.162893 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:49:35.163342 MSG: c2
--- success @ 2017-02-23 19:51:25.056807 MSG: success hello world from test!
--- error @ 2017-02-23 19:51:25.066783 MSG: success hello world from test!
--- warning @ 2017-02-23 19:51:25.070643 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:51:25.071021 MSG: c2
--- success @ 2017-02-23 19:51:52.374808 MSG: success hello world from test!
--- error @ 2017-02-23 19:51:52.385469 MSG: success hello world from test!
--- warning @ 2017-02-23 19:51:52.388325 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:51:52.388711 MSG: c2
--- success @ 2017-02-23 19:52:28.472953 MSG: success hello world from test!
--- error @ 2017-02-23 19:52:28.482120 MSG: success hello world from test!
--- warning @ 2017-02-23 19:52:28.484575 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:52:28.485210 MSG: c2
--- success @ 2017-02-23 19:54:04.199031 MSG: success hello world from test!
--- error @ 2017-02-23 19:54:04.208950 MSG: success hello world from test!
--- warning @ 2017-02-23 19:54:04.211909 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:54:04.214169 MSG: c2
--- success @ 2017-02-23 19:54:17.786164 MSG: success hello world from test!
--- error @ 2017-02-23 19:54:17.795399 MSG: success hello world from test!
--- warning @ 2017-02-23 19:54:17.796924 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:54:17.798867 MSG: c2
--- success @ 2017-02-23 19:54:25.326802 MSG: success hello world from test!
--- error @ 2017-02-23 19:54:25.336515 MSG: success hello world from test!
--- warning @ 2017-02-23 19:54:25.339818 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:54:25.340319 MSG: c2
--- success @ 2017-02-23 19:54:37.676308 MSG: success hello world from test!
--- error @ 2017-02-23 19:54:37.685361 MSG: success hello world from test!
--- warning @ 2017-02-23 19:54:37.687622 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:54:37.689623 MSG: c2
--- success @ 2017-02-23 19:55:26.938821 MSG: success hello world from test!
--- error @ 2017-02-23 19:55:26.948694 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:55:26.952549 MSG: c2
--- warning @ 2017-02-23 19:55:26.952710 MSG: success hello world from test!
--- success @ 2017-02-23 19:55:37.793334 MSG: success hello world from test!
--- error @ 2017-02-23 19:55:37.804711 MSG: success hello world from test!
--- warning @ 2017-02-23 19:55:37.805582 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:55:37.806588 MSG: c2
--- success @ 2017-02-23 19:55:53.984554 MSG: success hello world from test!
--- error @ 2017-02-23 19:55:53.994039 MSG: success hello world from test!
--- warning @ 2017-02-23 19:55:53.997216 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:55:53.998507 MSG: c2
--- success @ 2017-02-23 19:56:24.815418 MSG: success hello world from test!
--- error @ 2017-02-23 19:56:24.825521 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:56:24.828875 MSG: c2
--- warning @ 2017-02-23 19:56:24.829685 MSG: success hello world from test!
--- success @ 2017-02-23 19:56:57.810840 MSG: success hello world from test!
--- error @ 2017-02-23 19:56:57.819792 MSG: success hello world from test!
--- warning @ 2017-02-23 19:56:57.822815 MSG: success hello world from test!
--- isalnum @ 2017-02-23 19:56:57.823696 MSG: c2
--- success @ 2017-02-23 20:01:15.589265 MSG: success hello world from test!
--- error @ 2017-02-23 20:01:15.597693 MSG: success hello world from test!
--- warning @ 2017-02-23 20:01:15.601616 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:01:15.601575 MSG: c2
--- success @ 2017-02-23 20:03:00.103789 MSG: success hello world from test!
--- error @ 2017-02-23 20:03:00.112823 MSG: success hello world from test!
--- warning @ 2017-02-23 20:03:00.115165 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:03:00.115449 MSG: c2
--- success @ 2017-02-23 20:04:27.957813 MSG: success hello world from test!
--- error @ 2017-02-23 20:04:27.968551 MSG: success hello world from test!
--- warning @ 2017-02-23 20:04:27.970551 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:04:27.972930 MSG: c2
--- success @ 2017-02-23 20:06:56.340314 MSG: success hello world from test!
--- error @ 2017-02-23 20:06:56.349491 MSG: success hello world from test!
--- warning @ 2017-02-23 20:06:56.350501 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:06:56.351495 MSG: c2
--- success @ 2017-02-23 20:11:27.150726 MSG: success hello world from test!
--- error @ 2017-02-23 20:11:27.160722 MSG: success hello world from test!
--- warning @ 2017-02-23 20:11:27.162983 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:11:27.164021 MSG: c2
--- success @ 2017-02-23 20:12:30.970147 MSG: success hello world from test!
--- error @ 2017-02-23 20:12:30.981131 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:12:30.985025 MSG: c2
--- warning @ 2017-02-23 20:12:30.985850 MSG: success hello world from test!
--- success @ 2017-02-23 20:13:53.361149 MSG: success hello world from test!
--- error @ 2017-02-23 20:13:53.369739 MSG: success hello world from test!
--- warning @ 2017-02-23 20:13:53.372251 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:13:53.372736 MSG: c2
--- success @ 2017-02-23 20:14:11.817308 MSG: success hello world from test!
--- error @ 2017-02-23 20:14:11.829903 MSG: success hello world from test!
--- warning @ 2017-02-23 20:14:11.831940 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:14:11.832069 MSG: c2
--- success @ 2017-02-23 20:15:38.832668 MSG: success hello world from test!
--- error @ 2017-02-23 20:15:38.840575 MSG: success hello world from test!
--- warning @ 2017-02-23 20:15:38.844314 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:15:38.846169 MSG: c2
--- success @ 2017-02-23 20:16:01.258055 MSG: success hello world from test!
--- error @ 2017-02-23 20:16:01.266678 MSG: success hello world from test!
--- warning @ 2017-02-23 20:16:01.268276 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:16:01.272633 MSG: c2
--- success @ 2017-02-23 20:16:15.647883 MSG: success hello world from test!
--- error @ 2017-02-23 20:16:15.657381 MSG: success hello world from test!
--- warning @ 2017-02-23 20:16:15.660765 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:16:15.663063 MSG: c2
--- success @ 2017-02-23 20:16:35.847202 MSG: success hello world from test!
--- error @ 2017-02-23 20:16:35.857940 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:16:35.859288 MSG: c2
--- warning @ 2017-02-23 20:16:35.860018 MSG: success hello world from test!
--- success @ 2017-02-23 20:16:52.728436 MSG: success hello world from test!
--- error @ 2017-02-23 20:16:52.738601 MSG: success hello world from test!
--- warning @ 2017-02-23 20:16:52.739956 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:16:52.742130 MSG: c2
--- success @ 2017-02-23 20:17:13.554526 MSG: success hello world from test!
--- error @ 2017-02-23 20:17:13.563550 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:17:13.568433 MSG: c2
--- warning @ 2017-02-23 20:17:13.568847 MSG: success hello world from test!
--- success @ 2017-02-23 20:17:26.173788 MSG: success hello world from test!
--- error @ 2017-02-23 20:17:26.185170 MSG: success hello world from test!
--- warning @ 2017-02-23 20:17:26.185820 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:17:26.187471 MSG: c2
--- success @ 2017-02-23 20:17:42.198213 MSG: success hello world from test!
--- error @ 2017-02-23 20:17:42.209047 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:17:42.210405 MSG: c2
--- warning @ 2017-02-23 20:17:42.211126 MSG: success hello world from test!
--- success @ 2017-02-23 20:18:19.131058 MSG: success hello world from test!
--- error @ 2017-02-23 20:18:19.141826 MSG: success hello world from test!
--- warning @ 2017-02-23 20:18:19.144047 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:18:19.145516 MSG: c2
--- isalnum @ 2017-02-23 20:18:42.097434 MSG: c2
--- isalnum @ 2017-02-23 20:20:49.168374 MSG: c2
--- isalnum @ 2017-02-23 20:24:08.457379 MSG: c2
--- isalnum @ 2017-02-23 20:24:26.728836 MSG: c2
--- isalnum @ 2017-02-23 20:25:10.000242 MSG: c2
--- isalnum @ 2017-02-23 20:26:04.846084 MSG: c2
--- isalnum @ 2017-02-23 20:26:28.811993 MSG: c2
--- isalnum @ 2017-02-23 20:27:10.900014 MSG: c2
--- isalnum @ 2017-02-23 20:28:22.329281 MSG: c2
--- isalnum @ 2017-02-23 20:29:03.209531 MSG: c2
--- isalnum @ 2017-02-23 20:30:00.324404 MSG: c2
--- isalnum @ 2017-02-23 20:31:38.684851 MSG: c2
--- isalnum @ 2017-02-23 20:31:57.256883 MSG: c2
--- isalnum @ 2017-02-23 20:32:11.443482 MSG: c2
--- success @ 2017-02-23 20:32:43.472673 MSG: success hello world from test!
--- error @ 2017-02-23 20:32:43.481877 MSG: success hello world from test!
--- warning @ 2017-02-23 20:32:43.483591 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:32:43.485274 MSG: c2
--- success @ 2017-02-23 20:33:14.048519 MSG: success hello world from test!
--- error @ 2017-02-23 20:33:14.058730 MSG: success hello world from test!
--- warning @ 2017-02-23 20:33:14.059344 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:33:14.060867 MSG: c2
--- success @ 2017-02-23 20:33:47.342800 MSG: success hello world from test!
--- error @ 2017-02-23 20:33:47.351588 MSG: success hello world from test!
--- warning @ 2017-02-23 20:33:47.353601 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:33:47.355214 MSG: c2
--- success @ 2017-02-23 20:33:59.927548 MSG: success hello world from test!
--- error @ 2017-02-23 20:33:59.936572 MSG: success hello world from test!
--- warning @ 2017-02-23 20:33:59.938291 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:33:59.940923 MSG: c2
--- success @ 2017-02-23 20:34:18.438493 MSG: success hello world from test!
--- error @ 2017-02-23 20:34:18.447441 MSG: success hello world from test!
--- warning @ 2017-02-23 20:34:18.449398 MSG: success hello world from test!
--- isalnum @ 2017-02-23 20:34:18.450618 MSG: c2
--- isalnum @ 2017-02-23 20:34:32.701052 MSG: c2
--- isalnum @ 2017-02-23 20:34:52.652735 MSG: c2
--- isalnum @ 2017-02-23 20:35:53.256678 MSG: c2
--- isalnum @ 2017-02-23 20:36:05.604609 MSG: c2
--- isalnum @ 2017-02-23 20:36:35.549897 MSG: c2
--- isalnum @ 2017-02-23 20:37:27.901906 MSG: c2
--- isalnum @ 2017-02-23 20:37:51.088178 MSG: c2
--- isalnum @ 2017-02-23 20:37:53.304796 MSG: c2
--- isalnum @ 2017-02-23 20:38:25.307531 MSG: c2
--- isalnum @ 2017-02-23 20:39:41.538269 MSG: c2
--- isalnum @ 2017-02-23 20:40:07.225438 MSG: c2
--- isalnum @ 2017-02-23 20:40:38.955643 MSG: c2
--- isalnum @ 2017-02-23 20:41:20.318961 MSG: c2
--- isalnum @ 2017-02-23 20:41:40.624553 MSG: c2
--- isalnum @ 2017-02-23 20:42:45.196806 MSG: c2
--- isalnum @ 2017-02-23 20:43:03.579770 MSG: c2
--- isalnum @ 2017-02-23 20:44:14.434317 MSG: c2
--- isalnum @ 2017-02-23 20:44:37.171340 MSG: c2
--- isalnum @ 2017-02-23 20:45:15.622490 MSG: c2
--- isalnum @ 2017-02-23 20:45:23.988274 MSG: c2
--- isalnum @ 2017-02-23 20:45:46.536276 MSG: c2
--- isalnum @ 2017-02-23 20:46:00.277474 MSG: c2
--- isalnum @ 2017-02-23 20:46:11.182710 MSG: c2
--- isalnum @ 2017-02-23 20:46:38.102096 MSG: c2
--- isalnum @ 2017-02-23 20:46:51.301327 MSG: c2
--- isalnum @ 2017-02-23 20:46:58.877195 MSG: c2
--- isalnum @ 2017-02-23 20:47:33.037302 MSG: c2
--- isalnum @ 2017-02-23 20:47:59.170000 MSG: c2
--- isalnum @ 2017-02-23 20:48:50.783704 MSG: c2
--- isalnum @ 2017-02-23 20:49:06.414811 MSG: c2
--- isalnum @ 2017-02-23 20:49:55.792421 MSG: c2
--- isalnum @ 2017-02-23 20:50:39.141571 MSG: c2
--- isalnum @ 2017-02-23 20:51:05.997239 MSG: c2
--- isalnum @ 2017-02-23 20:52:26.120053 MSG: c2
--- isalnum @ 2017-02-23 20:52:38.017945 MSG: c2
--- isalnum @ 2017-02-23 20:52:43.601871 MSG: c2
--- isalnum @ 2017-02-23 20:52:45.641594 MSG: c2
--- isalnum @ 2017-02-23 20:54:04.507983 MSG: c2
--- isalnum @ 2017-02-23 20:54:08.968743 MSG: c2
--- isalnum @ 2017-02-23 20:54:33.929333 MSG: c2
--- isalnum @ 2017-02-23 20:54:37.201328 MSG: c2
--- isalnum @ 2017-02-23 20:54:50.085286 MSG: c2
--- isalnum @ 2017-02-23 20:54:57.404858 MSG: c2
--- isalnum @ 2017-02-23 20:55:19.767507 MSG: c2
--- isalnum @ 2017-02-23 20:55:32.980346 MSG: c2
--- isalnum @ 2017-02-23 20:55:53.847357 MSG: c2
--- isalnum @ 2017-02-23 20:56:07.122751 MSG: c2
--- isalnum @ 2017-02-23 20:56:47.378058 MSG: c2
--- isalnum @ 2017-02-23 20:57:07.944619 MSG: c2
--- isalnum @ 2017-02-23 20:57:14.520969 MSG: c2
--- isalnum @ 2017-02-23 20:57:26.072997 MSG: c2
--- isalnum @ 2017-02-23 20:57:38.302357 MSG: c2
--- isalnum @ 2017-02-23 20:57:51.633857 MSG: c2
--- isalnum @ 2017-02-23 20:58:00.175757 MSG: c2
--- isalnum @ 2017-02-23 20:58:21.044475 MSG: c2
--- isalnum @ 2017-02-23 20:58:34.992579 MSG: c2
--- isalnum @ 2017-02-23 20:58:50.993957 MSG: c2
--- isalnum @ 2017-02-23 20:59:17.395047 MSG: c2
--- isalnum @ 2017-02-23 21:21:10.264048 MSG: c2
--- isalnum @ 2017-02-23 21:21:41.520198 MSG: c2
--- isalnum @ 2017-02-23 21:22:18.557642 MSG: c2
--- isalnum @ 2017-02-23 21:22:29.797500 MSG: c2
--- isalnum @ 2017-02-23 21:23:20.447174 MSG: c2
--- isalnum @ 2017-02-23 21:23:39.382070 MSG: c2
--- isalnum @ 2017-02-23 21:24:33.014139 MSG: c2
--- isalnum @ 2017-02-23 21:24:42.146304 MSG: c2
--- isalnum @ 2017-02-23 21:25:33.919369 MSG: c2
--- isalnum @ 2017-02-23 21:25:57.699397 MSG: c2
--- isalnum @ 2017-02-23 21:26:22.346237 MSG: c2
--- isalnum @ 2017-02-26 01:00:47.482188 MSG: c2
--- isalnum @ 2017-02-26 01:01:42.228880 MSG: c2
--- isalnum @ 2017-02-26 01:02:24.878542 MSG: c2
--- isalnum @ 2017-02-26 01:03:14.379785 MSG: c2
--- isalnum @ 2017-02-26 01:05:09.265326 MSG: c2
--- isalnum @ 2017-02-26 01:05:39.177900 MSG: c2
--- isalnum @ 2017-02-26 01:06:36.526901 MSG: c2
--- isalnum @ 2017-02-26 01:06:46.301364 MSG: c2
--- isalnum @ 2017-02-26 01:08:40.625502 MSG: c2
--- isalnum @ 2017-02-26 01:09:03.377623 MSG: c2
--- isalnum @ 2017-02-26 01:09:09.481076 MSG: c2
--- isalnum @ 2017-02-26 01:09:23.584284 MSG: c2
--- isalnum @ 2017-02-26 01:09:38.360407 MSG: c2
--- isalnum @ 2017-02-26 01:18:15.565445 MSG: c2
--- isalnum @ 2017-02-26 01:18:33.420187 MSG: c2
--- isalnum @ 2017-02-26 01:19:06.018200 MSG: c2
--- isalnum @ 2017-02-26 01:19:29.216694 MSG: c2
--- isalnum @ 2017-02-26 01:19:49.694998 MSG: c2
--- h @ 2017-02-26 01:22:22.824774 MSG: e
--- isalnum @ 2017-02-26 01:22:22.833725 MSG: c2
--- isalnum @ 2017-02-26 01:23:12.115918 MSG: c2
--- [ @ 2017-02-26 01:23:12.115926 MSG: s
--- success @ 2017-02-26 01:23:42.318308 MSG: hello world
--- isalnum @ 2017-02-26 01:23:42.326408 MSG: c2
--- success @ 2017-02-26 02:07:15.144812 MSG: hello world
--- warning @ 2017-02-26 02:07:15.144776 MSG: hello world
--- error @ 2017-02-26 02:07:15.144804 MSG: hello world
--- isalnum @ 2017-02-26 02:07:15.144767 MSG: c2
--- success @ 2017-02-28 17:20:15.337765 MSG: hello world
--- error @ 2017-02-28 17:20:15.340927 MSG: hello world
--- count @ 2017-02-28 17:20:15.346228 MSG: the cow jumped over the moon
--- warning @ 2017-02-28 17:20:15.351526 MSG: hello world
--- isalnum @ 2017-02-28 17:20:15.356467 MSG: c2
--- success @ 2017-02-28 17:20:52.755320 MSG: hello world
--- error @ 2017-02-28 17:20:52.766248 MSG: hello world
--- warning @ 2017-02-28 17:20:52.769678 MSG: hello world
--- isalnum @ 2017-02-28 17:20:52.771415 MSG: c2
--- count @ 2017-02-28 17:20:52.774318 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:21:40.539186 MSG: hello world
--- error @ 2017-02-28 17:21:40.553810 MSG: hello world
--- warning @ 2017-02-28 17:21:40.555167 MSG: hello world
--- isalnum @ 2017-02-28 17:21:40.556920 MSG: c2
--- count @ 2017-02-28 17:21:40.558264 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:21:40.564048 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:22:04.265004 MSG: hello world
--- error @ 2017-02-28 17:22:04.277272 MSG: hello world
--- warning @ 2017-02-28 17:22:04.280992 MSG: hello world
--- isalnum @ 2017-02-28 17:22:04.283860 MSG: c2
--- count @ 2017-02-28 17:22:04.283916 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:22:04.288111 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:22:22.225375 MSG: hello world
--- error @ 2017-02-28 17:22:22.237059 MSG: hello world
--- warning @ 2017-02-28 17:22:22.243694 MSG: hello world
--- isalnum @ 2017-02-28 17:22:22.243902 MSG: c2
--- count @ 2017-02-28 17:22:22.244289 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:22:22.248092 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:22:48.689859 MSG: hello world
--- error @ 2017-02-28 17:22:48.703254 MSG: hello world
--- warning @ 2017-02-28 17:22:48.704910 MSG: hello world
--- isalnum @ 2017-02-28 17:22:48.707224 MSG: c2
--- count @ 2017-02-28 17:22:48.708732 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:22:48.713982 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:23:07.112550 MSG: hello world
--- error @ 2017-02-28 17:23:07.127444 MSG: hello world
--- warning @ 2017-02-28 17:23:07.128367 MSG: hello world
--- isalnum @ 2017-02-28 17:23:07.130343 MSG: c2
--- count @ 2017-02-28 17:23:07.131628 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:23:07.135658 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:24:01.688242 MSG: hello world
--- error @ 2017-02-28 17:24:01.701378 MSG: hello world
--- isalnum @ 2017-02-28 17:24:01.704212 MSG: c2
--- warning @ 2017-02-28 17:24:01.704776 MSG: hello world
--- count @ 2017-02-28 17:24:01.708351 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:24:01.710320 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:24:36.172686 MSG: hello world
--- error @ 2017-02-28 17:24:36.185213 MSG: hello world
--- warning @ 2017-02-28 17:24:36.187838 MSG: hello world
--- isalnum @ 2017-02-28 17:24:36.190279 MSG: c2
--- count @ 2017-02-28 17:24:36.191438 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:24:36.195708 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:24:45.667839 MSG: hello world
--- error @ 2017-02-28 17:24:45.683301 MSG: hello world
--- warning @ 2017-02-28 17:24:45.684474 MSG: hello world
--- isalnum @ 2017-02-28 17:24:45.687767 MSG: c2
--- count @ 2017-02-28 17:24:45.688967 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:24:45.691927 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:24:58.032578 MSG: hello world
--- error @ 2017-02-28 17:24:58.046441 MSG: hello world
--- warning @ 2017-02-28 17:24:58.047161 MSG: hello world
--- isalnum @ 2017-02-28 17:24:58.049475 MSG: c2
--- count @ 2017-02-28 17:24:58.051578 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:24:58.058621 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:26:25.536551 MSG: hello world
--- error @ 2017-02-28 17:26:25.549058 MSG: hello world
--- warning @ 2017-02-28 17:26:25.552078 MSG: hello world
--- count @ 2017-02-28 17:26:25.554385 MSG: the cow jumped over the moon
--- isalnum @ 2017-02-28 17:26:25.555244 MSG: c2
--- count @ 2017-02-28 17:26:25.564541 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:28:30.891921 MSG: hello world
--- error @ 2017-02-28 17:28:30.903580 MSG: hello world
--- warning @ 2017-02-28 17:28:30.904714 MSG: hello world
--- isalnum @ 2017-02-28 17:28:30.907664 MSG: c2
--- count @ 2017-02-28 17:28:30.908667 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:28:48.233386 MSG: hello world
--- error @ 2017-02-28 17:28:48.245186 MSG: hello world
--- isalnum @ 2017-02-28 17:28:48.247452 MSG: c2
--- warning @ 2017-02-28 17:28:48.248015 MSG: hello world
--- count @ 2017-02-28 17:28:48.250233 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:28:58.163612 MSG: hello world
--- warning @ 2017-02-28 17:28:58.176662 MSG: hello world
--- error @ 2017-02-28 17:28:58.177002 MSG: hello world
--- count @ 2017-02-28 17:28:58.178691 MSG: the cow jumped over the moon
--- isalnum @ 2017-02-28 17:28:58.179345 MSG: c2
--- success @ 2017-02-28 17:29:19.984628 MSG: hello world
--- error @ 2017-02-28 17:29:19.994518 MSG: hello world
--- warning @ 2017-02-28 17:29:19.998244 MSG: hello world
--- isalnum @ 2017-02-28 17:29:19.998698 MSG: c2
--- count @ 2017-02-28 17:29:19.999965 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:29:29.603083 MSG: hello world
--- error @ 2017-02-28 17:29:29.615045 MSG: hello world
--- warning @ 2017-02-28 17:29:29.616774 MSG: hello world
--- isalnum @ 2017-02-28 17:29:29.618178 MSG: c2
--- count @ 2017-02-28 17:29:29.619139 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:29:35.699337 MSG: hello world
--- error @ 2017-02-28 17:29:35.709386 MSG: hello world
--- warning @ 2017-02-28 17:29:35.712378 MSG: hello world
--- isalnum @ 2017-02-28 17:29:35.712889 MSG: c2
--- count @ 2017-02-28 17:29:35.713033 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:29:44.016536 MSG: hello world
--- error @ 2017-02-28 17:29:44.027464 MSG: hello world
--- warning @ 2017-02-28 17:29:44.030569 MSG: hello world
--- count @ 2017-02-28 17:29:44.033217 MSG: the cow jumped over the moon
--- isalnum @ 2017-02-28 17:29:44.034397 MSG: c2
--- success @ 2017-02-28 17:30:29.416052 MSG: hello world
--- error @ 2017-02-28 17:30:29.425584 MSG: hello world
--- warning @ 2017-02-28 17:30:29.427731 MSG: hello world
--- isalnum @ 2017-02-28 17:30:29.430722 MSG: c2
--- count @ 2017-02-28 17:30:29.431243 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:31:01.207776 MSG: hello world
--- error @ 2017-02-28 17:31:01.217491 MSG: hello world
--- warning @ 2017-02-28 17:31:01.219801 MSG: hello world
--- isalnum @ 2017-02-28 17:31:01.221555 MSG: c2
--- count @ 2017-02-28 17:31:01.222576 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:31:23.272983 MSG: hello world
--- error @ 2017-02-28 17:31:23.282990 MSG: hello world
--- warning @ 2017-02-28 17:31:23.286334 MSG: hello world
--- isalnum @ 2017-02-28 17:31:23.288434 MSG: c2
--- count @ 2017-02-28 17:31:23.289336 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:31:32.733955 MSG: hello world
--- error @ 2017-02-28 17:31:32.743869 MSG: hello world
--- warning @ 2017-02-28 17:31:32.748928 MSG: hello world
--- isalnum @ 2017-02-28 17:31:32.750263 MSG: c2
--- count @ 2017-02-28 17:31:32.751122 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:32:11.109970 MSG: hello world
--- error @ 2017-02-28 17:32:11.121650 MSG: hello world
--- warning @ 2017-02-28 17:32:11.124869 MSG: hello world
--- isalnum @ 2017-02-28 17:32:11.126097 MSG: c2
--- count @ 2017-02-28 17:32:11.128611 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:32:22.292010 MSG: hello world
--- error @ 2017-02-28 17:32:22.303790 MSG: hello world
--- count @ 2017-02-28 17:32:22.310196 MSG: the cow jumped over the moon
--- warning @ 2017-02-28 17:32:22.307705 MSG: hello world
--- isalnum @ 2017-02-28 17:32:22.309816 MSG: c2
--- error @ 2017-02-28 17:34:16.109348 MSG: hello world
--- success @ 2017-02-28 17:34:16.110177 MSG: hello world
--- warning @ 2017-02-28 17:34:16.114191 MSG: hello world
--- isalnum @ 2017-02-28 17:34:16.114262 MSG: c2
--- count @ 2017-02-28 17:34:16.117094 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:34:22.200309 MSG: hello world
--- error @ 2017-02-28 17:34:22.211678 MSG: hello world
--- warning @ 2017-02-28 17:34:22.218488 MSG: hello world
--- isalnum @ 2017-02-28 17:34:22.219617 MSG: c2
--- count @ 2017-02-28 17:34:22.219679 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:34:57.447054 MSG: hello world
--- error @ 2017-02-28 17:34:57.456932 MSG: hello world
--- warning @ 2017-02-28 17:34:57.461374 MSG: hello world
--- isalnum @ 2017-02-28 17:34:57.463180 MSG: c2
--- count @ 2017-02-28 17:34:57.466829 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:35:18.012183 MSG: hello world
--- error @ 2017-02-28 17:35:18.026362 MSG: hello world
--- isalnum @ 2017-02-28 17:35:18.030212 MSG: c2
--- warning @ 2017-02-28 17:35:18.031821 MSG: hello world
--- count @ 2017-02-28 17:35:18.033556 MSG: the cow jumped over the moon
--- success @ 2017-02-28 17:37:38.341655 MSG: hello world
--- error @ 2017-02-28 17:37:38.353378 MSG: hello world
--- warning @ 2017-02-28 17:37:38.355791 MSG: hello world
--- isalnum @ 2017-02-28 17:37:38.356618 MSG: c2
--- count @ 2017-02-28 17:37:38.362596 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:56:49.267207 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:57:16.049598 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:57:16.059475 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:58:26.341584 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:58:26.341582 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:58:46.059971 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:58:46.069924 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:58:56.517943 MSG: the cow jumped over the moon
--- count @ 2017-02-28 17:58:56.527411 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:04:10.900687 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:04:10.900573 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:04:26.545364 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:04:26.553589 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:04:43.635925 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:04:43.645733 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:04:58.015036 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:04:58.025487 MSG: the cow jumped over the moon again
--- count @ 2017-02-28 18:06:01.512475 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:06:01.522169 MSG: the cow jumped over the moon again
--- count @ 2017-02-28 18:06:10.568056 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:06:10.574744 MSG: the cow jumped over the moon again
--- count @ 2017-02-28 18:06:27.190335 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:06:27.200457 MSG: the cow jumped over the moon again
--- count @ 2017-02-28 18:06:52.804888 MSG: the cow jumped over the moon
--- count @ 2017-02-28 18:06:52.815702 MSG: the cow jumped over the moon again
--- count @ 2017-02-28 18:07:42.155181 MSG: the cow jumped over the moon again
--- count @ 2017-02-28 18:09:48.303121 MSG: the cow jumped over the moon again
--- count @ 2017-02-28 18:10:20.785202 MSG: the cow jumped over the moon again
--- count @ 2017-02-28 18:11:06.974814 MSG: the cow jumped over the moon again
--- count @ 2017-02-28 18:12:01.753455 MSG: the cow jumped over the moon again
--- count @ 2017-02-28 18:13:44.474745 MSG: the cow jumped over the moon again
--- count @ 2017-02-28 18:14:20.025671 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:14:50.398194 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:15:21.315151 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:15:46.319543 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:15:51.970328 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:16:00.000767 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:17:04.782204 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:17:25.298616 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:17:43.698918 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:18:09.612726 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:18:32.181313 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:18:42.810030 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:19:20.507603 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:19:33.839335 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:19:44.102532 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:19:50.736889 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:19:56.573972 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:20:25.035915 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:21:50.305587 MSG: the cow jumped over the moon again...
--- count @ 2017-02-28 18:21:56.539566 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 16:31:23.691396 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:31:23.691468 MSG: fghjk6
+-- isalnum @ 2017-03-01 16:38:13.176589 MSG: fghjk6
+-- count @ 2017-03-01 16:38:13.176591 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 16:38:36.547977 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:38:36.558676 MSG: fghjk6
+-- count @ 2017-03-01 16:38:46.731511 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:38:46.742984 MSG: fghjk6
+-- count @ 2017-03-01 16:38:55.464483 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:38:55.475406 MSG: fghjk6
+-- count @ 2017-03-01 16:39:10.325618 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:39:10.335816 MSG: fghjk6
+-- count @ 2017-03-01 16:39:18.686004 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:39:18.697896 MSG: fghjk6
+-- count @ 2017-03-01 16:40:21.270544 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:40:21.281823 MSG: fghjk6
+-- count @ 2017-03-01 16:41:16.783223 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:41:16.793931 MSG: fghjk6
+-- count @ 2017-03-01 16:41:28.125903 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:41:28.137459 MSG: fghjk6
+-- isalnum @ 2017-03-01 16:42:34.951739 MSG: fghjk6
+-- count @ 2017-03-01 16:42:34.951743 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:43:51.949029 MSG: fghjk6
+-- count @ 2017-03-01 16:43:51.949029 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 16:43:56.325834 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:43:56.336078 MSG: fghjk6
+-- count @ 2017-03-01 16:44:52.040698 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:44:52.051708 MSG: fghjk6
+-- isalnum @ 2017-03-01 16:57:28.669572 MSG: fghjk6
+-- count @ 2017-03-01 16:57:28.669576 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 16:57:40.924395 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:57:40.937423 MSG: fghjk6
+-- count @ 2017-03-01 16:57:55.409186 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:57:55.414926 MSG: fghjk6
+-- count @ 2017-03-01 16:58:15.050555 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:58:15.062286 MSG: fghjk6
+-- count @ 2017-03-01 16:58:26.832444 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:58:26.843606 MSG: fghjk6
+-- count @ 2017-03-01 16:58:48.286151 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:58:48.297931 MSG: fghjk6
+-- count @ 2017-03-01 16:59:10.098099 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 16:59:10.107920 MSG: fghjk6
+-- count @ 2017-03-01 17:01:45.705529 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 17:02:12.924452 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:02:12.935005 MSG: fghjk6
+-- count @ 2017-03-01 17:02:25.917270 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:02:25.927653 MSG: fghjk6
+-- count @ 2017-03-01 17:02:26.837015 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:02:26.847928 MSG: fghjk6
+-- count @ 2017-03-01 17:02:30.260825 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:02:30.271140 MSG: fghjk6
+-- isalnum @ 2017-03-01 17:09:24.104116 MSG: fghjk6
+-- count @ 2017-03-01 17:09:24.104116 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 17:09:52.142938 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:09:52.155809 MSG: fghjk6
+-- count @ 2017-03-01 17:10:13.524711 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:10:13.535518 MSG: fghjk6
+-- count @ 2017-03-01 17:11:47.686764 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:11:47.698411 MSG: fghjk6
+-- count @ 2017-03-01 17:12:39.852138 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:12:39.863012 MSG: fghjk6
+-- count @ 2017-03-01 17:12:47.717699 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:12:47.729665 MSG: fghjk6
+-- count @ 2017-03-01 17:13:23.296310 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:13:23.306923 MSG: fghjk6
+-- count @ 2017-03-01 17:13:29.195858 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:13:29.206549 MSG: fghjk6
+-- count @ 2017-03-01 17:13:42.988502 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:13:42.998711 MSG: fghjk6
+-- count @ 2017-03-01 17:13:55.441451 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:13:55.453236 MSG: fghjk6
+-- count @ 2017-03-01 17:14:11.444787 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 17:14:42.268809 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:14:42.279405 MSG: fghjk6
+-- count @ 2017-03-01 17:14:50.820267 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:14:50.831203 MSG: fghjk6
+-- count @ 2017-03-01 17:15:32.307073 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:15:32.325178 MSG: fghjk6
+-- count @ 2017-03-01 17:19:51.991644 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:19:52.011994 MSG: fghjk6
+-- count @ 2017-03-01 17:20:17.048751 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:20:17.061420 MSG: fghjk6
+-- count @ 2017-03-01 17:20:29.608914 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:20:29.617829 MSG: fghjk6
+-- count @ 2017-03-01 17:20:44.730311 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-01 17:20:44.741945 MSG: fghjk6
+-- count @ 2017-03-01 17:20:52.708907 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 17:21:19.820392 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 17:23:40.581995 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 17:23:55.470527 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 17:24:45.803914 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 17:25:06.582977 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 17:25:09.324154 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-01 17:25:34.443243 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 15:56:19.753223 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 15:57:58.660440 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 15:57:58.671952 MSG: fghjk6
+-- count @ 2017-03-02 15:58:08.950189 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 15:58:08.961878 MSG: fghjk6
+-- count @ 2017-03-02 15:59:28.085945 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 15:59:28.097125 MSG: fghjk6
+-- count @ 2017-03-02 15:59:36.408686 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 15:59:36.420310 MSG: fghjk6
+-- count @ 2017-03-02 16:00:57.595529 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:00:57.607259 MSG: fghjk6
+-- count @ 2017-03-02 16:07:38.954466 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:07:47.652365 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:08:04.280517 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:08:25.846659 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:08:53.965377 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:11:41.202802 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:13:18.668983 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:13:33.742559 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:14:01.297371 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:18:52.294319 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:19:26.670561 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:19:39.326554 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:19:58.393073 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:20:22.260292 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:20:22.271218 MSG: fghjk6
+-- count @ 2017-03-02 16:22:00.280270 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:22:00.291724 MSG: fghjk6
+-- count @ 2017-03-02 16:22:27.422094 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:22:27.432913 MSG: fghjk6
+-- count @ 2017-03-02 16:22:35.061674 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:22:35.072195 MSG: fghjk6
+-- count @ 2017-03-02 16:22:43.064032 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:22:43.075240 MSG: fghjk6
+-- count @ 2017-03-02 16:24:12.062959 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:24:12.074015 MSG: fghjk6
+-- count @ 2017-03-02 16:24:36.349410 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:24:36.360081 MSG: fghjk6
+-- count @ 2017-03-02 16:26:16.934090 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:26:16.944894 MSG: fghjk6
+-- count @ 2017-03-02 16:26:29.780827 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:26:29.791991 MSG: fghjk6
+-- count @ 2017-03-02 16:26:46.892852 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:26:46.903697 MSG: fghjk6
+-- count @ 2017-03-02 16:27:01.985014 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:27:01.997200 MSG: fghjk6
+-- count @ 2017-03-02 16:28:03.329688 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:28:03.340335 MSG: fghjk6
+-- count @ 2017-03-02 16:28:52.464097 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:33:39.886736 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:33:39.897568 MSG: fghjk6
+-- count @ 2017-03-02 16:35:03.258407 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:35:03.268112 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:35:17.849953 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:35:17.860170 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:35:27.376907 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:35:27.387433 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:35:45.718419 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:35:52.150656 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:36:00.215724 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 16:36:25.688361 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:36:25.699517 MSG: fghjk6
+-- count @ 2017-03-02 16:42:50.833498 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:42:50.844901 MSG: fghjk6
+-- count @ 2017-03-02 16:44:05.105462 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:44:05.131741 MSG: fghjk6
+-- count @ 2017-03-02 16:55:52.614368 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:55:52.678874 MSG: fghjk6
+-- count @ 2017-03-02 16:58:10.812822 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:58:10.834951 MSG: fghjk6
+-- count @ 2017-03-02 16:58:28.615421 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:58:28.638222 MSG: fghjk6
+-- count @ 2017-03-02 16:59:01.600067 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:59:01.625328 MSG: fghjk6
+-- count @ 2017-03-02 16:59:10.865504 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 16:59:10.890134 MSG: fghjk6
+-- count @ 2017-03-02 17:01:10.341829 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:01:10.344309 MSG: fghjk6
+-- count @ 2017-03-02 17:01:27.082825 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:01:27.094198 MSG: fghjk6
+-- count @ 2017-03-02 17:02:37.347653 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:02:37.359000 MSG: fghjk6
+-- isalnum @ 2017-03-02 17:02:58.716764 MSG: fghjk6
+-- count @ 2017-03-02 17:03:13.033167 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:03:13.042957 MSG: fghjk6
+-- count @ 2017-03-02 17:03:31.870698 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:03:31.881767 MSG: fghjk6
+-- count @ 2017-03-02 17:03:38.790522 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:03:38.801337 MSG: fghjk6
+-- count @ 2017-03-02 17:03:45.415172 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:03:45.425759 MSG: fghjk6
+-- count @ 2017-03-02 17:03:50.526000 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:03:50.537490 MSG: fghjk6
+-- count @ 2017-03-02 17:03:58.359132 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:03:58.370275 MSG: fghjk6
+-- count @ 2017-03-02 17:04:02.893959 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:04:02.905173 MSG: fghjk6
+-- count @ 2017-03-02 17:04:13.381185 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:04:13.392639 MSG: fghjk6
+-- count @ 2017-03-02 17:04:26.196262 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:04:33.869571 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:04:33.880942 MSG: fghjk6
+-- count @ 2017-03-02 17:05:19.589263 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:05:19.600303 MSG: fghjk6
+-- count @ 2017-03-02 17:05:21.874238 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:05:21.885501 MSG: fghjk6
+-- count @ 2017-03-02 17:05:22.966260 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:05:22.978596 MSG: fghjk6
+-- count @ 2017-03-02 17:05:38.321529 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:05:38.332989 MSG: fghjk6
+-- count @ 2017-03-02 17:05:40.513411 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:05:40.524738 MSG: fghjk6
+-- count @ 2017-03-02 17:05:54.153580 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:05:54.164730 MSG: fghjk6
+-- count @ 2017-03-02 17:06:54.343894 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:06:57.486557 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:07:23.533972 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:07:34.634516 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:07:56.477515 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:07:56.488829 MSG: fghjk6
+-- count @ 2017-03-02 17:08:20.950359 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:08:20.962097 MSG: fghjk6
+-- count @ 2017-03-02 17:10:09.589352 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:10:09.600858 MSG: fghjk6
+-- count @ 2017-03-02 17:10:12.882457 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:10:12.892981 MSG: fghjk6
+-- count @ 2017-03-02 17:10:29.865502 MSG: the cow jumped over the moon again...
+-- [ @ 2017-03-02 17:10:29.887862 MSG: "
+-- " @ 2017-03-02 17:10:29.895989 MSG: \
+-- " @ 2017-03-02 17:10:29.894672 MSG: \
+-- " @ 2017-03-02 17:10:29.891263 MSG: [
+-- " @ 2017-03-02 17:10:29.899928 MSG: \
+-- " @ 2017-03-02 17:10:29.900337 MSG: \
+-- " @ 2017-03-02 17:10:29.908874 MSG: \
+-- " @ 2017-03-02 17:10:29.914103 MSG: \
+-- " @ 2017-03-02 17:10:29.915117 MSG: \
+-- count @ 2017-03-02 17:10:32.364725 MSG: the cow jumped over the moon again...
+-- [ @ 2017-03-02 17:10:32.388604 MSG: "
+-- " @ 2017-03-02 17:10:32.392138 MSG: [
+-- " @ 2017-03-02 17:10:32.396639 MSG: \
+-- " @ 2017-03-02 17:10:32.400510 MSG: \
+-- " @ 2017-03-02 17:10:32.401347 MSG: \
+-- " @ 2017-03-02 17:10:32.406328 MSG: \
+-- " @ 2017-03-02 17:10:32.410166 MSG: \
+-- " @ 2017-03-02 17:10:32.410441 MSG: \
+-- " @ 2017-03-02 17:10:32.415918 MSG: \
+-- isalnum @ 2017-03-02 17:13:47.432464 MSG: fghjk6
+-- " @ 2017-03-02 17:13:48.149081 MSG: [
+-- " @ 2017-03-02 17:13:48.152141 MSG: \
+-- " @ 2017-03-02 17:13:48.154495 MSG: \
+-- " @ 2017-03-02 17:13:48.157850 MSG: \
+-- " @ 2017-03-02 17:13:48.165662 MSG: \
+-- " @ 2017-03-02 17:13:48.165565 MSG: \
+-- " @ 2017-03-02 17:13:48.167331 MSG: \
+-- " @ 2017-03-02 17:13:48.167834 MSG: \
+-- count @ 2017-03-02 17:13:48.181130 MSG: the cow jumped over the moon again...
+-- [ @ 2017-03-02 17:13:48.181413 MSG: "
+-- count @ 2017-03-02 17:15:03.693343 MSG: the cow jumped over the moon again...
+-- [ @ 2017-03-02 17:15:03.706461 MSG: "
+-- " @ 2017-03-02 17:15:03.712341 MSG: \
+-- " @ 2017-03-02 17:15:03.709668 MSG: [
+-- " @ 2017-03-02 17:15:03.715264 MSG: \
+-- " @ 2017-03-02 17:15:03.716548 MSG: \
+-- " @ 2017-03-02 17:15:03.716466 MSG: \
+-- " @ 2017-03-02 17:15:03.723656 MSG: \
+-- " @ 2017-03-02 17:15:03.732522 MSG: \
+-- " @ 2017-03-02 17:15:03.737047 MSG: \
+-- count @ 2017-03-02 17:16:00.291148 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:16:42.338192 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:17:17.944371 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:17:52.690265 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:17:52.700696 MSG: fghjk6
+-- count @ 2017-03-02 17:35:11.123519 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:35:11.135067 MSG: fghjk6
+-- count @ 2017-03-02 17:36:06.186449 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:36:06.197559 MSG: fghjk6
+-- count @ 2017-03-02 17:36:29.392371 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:36:29.404172 MSG: fghjk6
+-- count @ 2017-03-02 17:37:27.598452 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:37:36.180525 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:38:24.059008 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:38:38.103449 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:38:50.529975 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:39:06.232753 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:39:06.244988 MSG: fghjk6
+-- count @ 2017-03-02 17:39:38.065334 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:39:38.076438 MSG: fghjk6
+-- count @ 2017-03-02 17:40:06.736057 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:40:06.747543 MSG: fghjk6
+-- count @ 2017-03-02 17:40:23.598673 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:40:23.609783 MSG: fghjk6
+-- count @ 2017-03-02 17:40:31.710245 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:40:31.721557 MSG: fghjk6
+-- count @ 2017-03-02 17:41:06.223457 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:41:06.229573 MSG: fghjk6
+-- count @ 2017-03-02 17:41:16.030651 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:41:16.030921 MSG: fghjk6
+-- count @ 2017-03-02 17:41:19.457667 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:41:19.463279 MSG: fghjk6
+-- count @ 2017-03-02 17:41:58.283503 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:41:58.285264 MSG: fghjk6
+-- count @ 2017-03-02 17:41:59.303900 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:41:59.309370 MSG: fghjk6
+-- count @ 2017-03-02 17:42:00.680672 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:42:00.686348 MSG: fghjk6
+-- count @ 2017-03-02 17:42:09.484598 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:42:09.490382 MSG: fghjk6
+-- count @ 2017-03-02 17:42:36.446112 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:42:36.452303 MSG: fghjk6
+-- count @ 2017-03-02 17:43:30.821227 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:43:30.826869 MSG: fghjk6
+-- count @ 2017-03-02 17:43:30.829050 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:45:34.561199 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:45:34.565826 MSG: fghjk6
+-- count @ 2017-03-02 17:45:34.568291 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:46:11.325211 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:46:11.331113 MSG: fghjk6
+-- count @ 2017-03-02 17:46:11.332496 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:46:43.413414 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:46:43.419453 MSG: fghjk6
+-- count @ 2017-03-02 17:46:43.421413 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:47:55.396809 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:47:55.402164 MSG: fghjk6
+-- count @ 2017-03-02 17:47:55.403989 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:48:45.636526 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:48:45.642283 MSG: fghjk6
+-- count @ 2017-03-02 17:48:45.644380 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:50:01.632100 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:50:01.638113 MSG: fghjk6
+-- count @ 2017-03-02 17:50:01.640713 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:50:19.687937 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:50:19.693376 MSG: fghjk6
+-- count @ 2017-03-02 17:50:19.695423 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:50:57.128922 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:50:57.133937 MSG: fghjk6
+-- count @ 2017-03-02 17:50:57.136438 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:51:17.149948 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:51:17.155280 MSG: fghjk6
+-- count @ 2017-03-02 17:51:17.157898 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:51:49.917891 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:51:49.924575 MSG: fghjk6
+-- count @ 2017-03-02 17:51:49.925884 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:52:08.814684 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:52:08.820514 MSG: fghjk6
+-- count @ 2017-03-02 17:52:08.822794 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:52:47.820573 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:52:47.826534 MSG: fghjk6
+-- count @ 2017-03-02 17:52:47.828252 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:53:36.829808 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:53:36.829812 MSG: fghjk6
+-- count @ 2017-03-02 17:53:36.829808 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:55:03.697565 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:55:03.703399 MSG: fghjk6
+-- count @ 2017-03-02 17:55:03.704824 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:55:49.314102 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:55:49.321026 MSG: fghjk6
+-- count @ 2017-03-02 17:55:49.323083 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:56:42.238178 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:56:42.243705 MSG: fghjk6
+-- count @ 2017-03-02 17:56:42.245730 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:58:17.402665 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:58:17.408746 MSG: fghjk6
+-- count @ 2017-03-02 17:58:17.409764 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:58:53.022570 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:58:53.028295 MSG: fghjk6
+-- count @ 2017-03-02 17:58:53.030490 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:59:05.324090 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:59:05.329665 MSG: fghjk6
+-- count @ 2017-03-02 17:59:05.332132 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:59:33.778434 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:59:33.784255 MSG: fghjk6
+-- count @ 2017-03-02 17:59:33.786665 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:59:40.682901 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:59:40.688537 MSG: fghjk6
+-- count @ 2017-03-02 17:59:40.691042 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 17:59:59.064778 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 17:59:59.071551 MSG: fghjk6
+-- count @ 2017-03-02 17:59:59.073716 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:00:17.322164 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:00:17.327741 MSG: fghjk6
+-- count @ 2017-03-02 18:00:17.329854 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:00:38.856847 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:00:38.862390 MSG: fghjk6
+-- count @ 2017-03-02 18:00:38.864280 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:01:08.002068 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:01:08.007472 MSG: fghjk6
+-- count @ 2017-03-02 18:01:08.009970 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:02:01.774463 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:02:01.780399 MSG: fghjk6
+-- count @ 2017-03-02 18:02:01.781828 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:02:47.349630 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:02:47.355203 MSG: fghjk6
+-- count @ 2017-03-02 18:02:47.357671 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:03:08.045689 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:03:08.051120 MSG: fghjk6
+-- count @ 2017-03-02 18:03:08.053826 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:03:59.195175 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:03:59.200552 MSG: fghjk6
+-- count @ 2017-03-02 18:03:59.203010 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:04:14.579626 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:04:14.585106 MSG: fghjk6
+-- count @ 2017-03-02 18:04:14.586955 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:05:10.345040 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:05:10.349739 MSG: fghjk6
+-- count @ 2017-03-02 18:05:10.352393 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:05:37.384742 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:05:37.390598 MSG: fghjk6
+-- count @ 2017-03-02 18:05:37.392647 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:05:55.902956 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:05:55.908699 MSG: fghjk6
+-- count @ 2017-03-02 18:05:55.911416 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:06:03.998196 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:06:04.003607 MSG: fghjk6
+-- count @ 2017-03-02 18:06:04.005868 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:06:41.069763 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:06:41.074976 MSG: fghjk6
+-- count @ 2017-03-02 18:06:41.077545 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:07:32.548658 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:07:32.554142 MSG: fghjk6
+-- count @ 2017-03-02 18:07:32.556936 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:10:43.441052 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:10:43.448029 MSG: fghjk6
+-- count @ 2017-03-02 18:10:43.449258 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:10:52.538550 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:10:52.550615 MSG: fghjk6
+-- count @ 2017-03-02 18:10:52.557277 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:11:19.181331 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:11:19.196677 MSG: fghjk6
+-- count @ 2017-03-02 18:11:19.199390 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:11:38.886610 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:11:38.897935 MSG: fghjk6
+-- count @ 2017-03-02 18:11:38.901906 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:13:30.261572 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:13:30.274067 MSG: fghjk6
+-- count @ 2017-03-02 18:13:30.298059 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.302153 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.304089 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.306425 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.309339 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.310581 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:13:30.343168 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.346281 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.350563 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.353153 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.354923 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.358858 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.361392 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.367316 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.367427 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:13:30.368200 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:14:07.600938 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:14:07.612570 MSG: fghjk6
+-- count @ 2017-03-02 18:14:07.617200 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:14:41.442353 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:14:41.453896 MSG: fghjk6
+-- count @ 2017-03-02 18:14:41.456955 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:15:16.072953 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:15:16.078812 MSG: fghjk6
+-- count @ 2017-03-02 18:15:16.080852 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:15:31.105588 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:15:31.111310 MSG: fghjk6
+-- count @ 2017-03-02 18:15:31.113738 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:16:01.494267 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:16:01.506060 MSG: fghjk6
+-- count @ 2017-03-02 18:16:01.511128 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:17:03.855065 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:17:03.866507 MSG: fghjk6
+-- count @ 2017-03-02 18:17:03.872091 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:17:27.061228 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:17:27.074514 MSG: fghjk6
+-- count @ 2017-03-02 18:17:27.077218 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:17:39.068766 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:17:39.082151 MSG: fghjk6
+-- count @ 2017-03-02 18:17:39.085507 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:17:57.460313 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:17:57.473821 MSG: fghjk6
+-- count @ 2017-03-02 18:17:57.479175 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:17:57.500842 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.509940 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.529161 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.533813 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.537163 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.540352 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.534526 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.541469 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.540895 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.546429 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.550658 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.556932 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.564703 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.568254 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:17:57.573764 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:20.931109 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:18:20.943235 MSG: fghjk6
+-- count @ 2017-03-02 18:18:20.947548 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:18:20.974686 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:20.983006 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:20.994941 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:20.996542 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:20.998594 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:21.012141 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:21.013926 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:21.003794 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:21.025359 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:21.020787 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:21.031903 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:21.032473 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:21.033595 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:21.034776 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:21.035302 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:18:43.343222 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:18:43.358072 MSG: fghjk6
+-- count @ 2017-03-02 18:18:43.361561 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:19:13.601018 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:19:13.614347 MSG: fghjk6
+-- count @ 2017-03-02 18:19:13.618077 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:19:13.676851 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.681909 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.696353 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.698322 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.707206 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.710516 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.710967 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.711935 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.713882 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.714700 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.678094 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.715624 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.715535 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.721641 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:19:13.741306 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 18:20:05.285526 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:20:05.283945 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:20:05.316538 MSG: fghjk6
+-- count @ 2017-03-02 18:20:38.672360 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:20:38.688196 MSG: fghjk6
+-- count @ 2017-03-02 18:20:38.690560 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:20:47.564928 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:20:47.579871 MSG: fghjk6
+-- count @ 2017-03-02 18:20:47.585277 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:22:21.930498 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:22:21.953113 MSG: fghjk6
+-- count @ 2017-03-02 18:22:21.971344 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:22:50.994345 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 18:22:50.984965 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 18:22:51.026045 MSG: fghjk6
+-- count @ 2017-03-02 19:03:10.728822 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 19:03:10.767929 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.770857 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.772160 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.774160 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.775411 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.777208 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.777919 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.781740 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.784470 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.784893 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 19:03:10.787632 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- isalnum @ 2017-03-02 19:03:10.788111 MSG: fghjk6
+-- count @ 2017-03-02 19:03:10.790825 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.793743 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.816397 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.824412 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.827453 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.832472 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.832921 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.836651 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.838278 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.844096 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.845763 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.858840 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.866827 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.870241 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:10.871603 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:37.598548 MSG: the cow jumped over the moon again...
+-- isalnum @ 2017-03-02 19:03:37.610432 MSG: fghjk6
+-- count @ 2017-03-02 19:03:37.617416 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 19:03:37.617796 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:37.621171 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:37.624849 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:37.627362 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:37.627929 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:37.634536 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:37.647395 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:37.654230 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:37.656123 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:03:37.659595 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- isalnum @ 2017-03-02 19:05:30.864213 MSG: fghjk6
+-- count @ 2017-03-02 19:05:30.871412 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 19:05:30.873582 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:05:30.875599 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:05:30.874750 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:05:30.881853 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:05:30.882554 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:05:30.887055 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:05:30.889859 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:05:30.892604 MSG: the cow jumped over the moon again...
+-- count @ 2017-03-02 19:05:30.895068 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:05:30.902955 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1
+-- count @ 2017-03-02 19:05:30.915201 MSG: 1,2,1,1,1,1,4,5,7,5,6,3,5,2,1

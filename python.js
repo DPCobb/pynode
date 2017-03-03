@@ -18,40 +18,41 @@ class dataHold {
       key: this.key,
       data: this.data,
     }
-    // write to json file
-    fs.writeFile('./tmp.json', JSON.stringify(this.locker, null, 2), (err) => {
+    const k = JSON.stringify(this.key)
+    const d = this.data.toString()
+    const k1 = k.toString().replace(/\n/g, ' ')
+    const d1 = d.replace(/\n/g, ' ')
+    this.msg = `Result: ${d1} Data: ${k1}\n`
+    fs.appendFile('./tmp.txt', this.msg, (err) => {
       if (err) throw err;
-    });
-
-    return this.locker;
-
-  }
+    })
+    console.log(this.msg)
+}
 }
 
 module.exports = {
   count(data) {
-    return this.pyHandle(data)
+    this.pyHandle(data)
+  },
+  isalnum(data) {
+    this.pyHandle(data)
   },
   pyHandle(arr) {
     const data = JSON.stringify(arr);
     const l = new dataHold
-    const py = spawn('python', [path.join(__dirname, '/log.py')]);
+    const py = spawn('python', [path.join(__dirname, '/log.py')], {stdio: [null, null, null, 'ipc']});
     py.stdin.write(data);
     py.stdin.end();
     let dataOut = '';
-    let info = '';
     let key = JSON.parse(data)
+    const info = [];
+    let res;
     py.stdout.on('data', (dataReturn) => {
       dataOut += dataReturn;
       l.hold(dataOut, key)
     });
-    py.stdout.on('close', () => {
-      return this.result().data;
+    py.stdout.on('close', (dataReturn) => {
+
     });
-    return this.result().data;
-  },
-  result() {
-    const result = JSON.parse(fs.readFileSync('./tmp.json'));
-    return result;
   }
 }
